@@ -1,12 +1,12 @@
 {
   "settings": {
     "name": "lhcp2019_new",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
       "styling": {
-        "primaryColor": "#23b0ec",
+        "primaryColor": "#ffffff",
         "secondaryColor": "#7ae6ff",
         "successColor": "#23b0ec",
         "infoColor": "#197bc6",
@@ -52,7 +52,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 71,
+    "uniqCompNum": 81,
     "versionPublish": "4.8.4",
     "favicon": "@PROJECT_PATH@/assets/images/stock-vector-world-boom-vector-icon-style-is-flat-blue-symbol-rounded-angles-black-background-331527968-128x134.png",
     "noImageResize": "",
@@ -90,7 +90,7 @@
             }
           },
           "_name": "header1",
-          "_customHTML": "<section class=\"header1\" group=\"Headers\" plugins=\"amp-main\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Pantalla Completa\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Subtítulo\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Mostrar Texto\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Mostrar Botones\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Imagen de Fondo\" value=\"@PROJECT_PATH@/assets/images/fondo-nuevo-6-2000x2215.jpg\" selected>\n            <input type=\"color\" title=\"Color de Fondo\" value=\"#0dd1ff\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <h1 class=\"mbr-section-title mbr-fonts-style align-right mbr-bold mbr-white\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><span style=\"font-weight: normal;\">The 7th Conference on Large Hadron Collider Physics</span>&nbsp;</h1>\n        <h3 class=\"mbr-section-subtitle mbr-fonts-style align-right mbr-white mbr-light\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\" mbr-if=\"showSubTitle\">The 7th Conference on Large Hadron Collider Physics&nbsp;</h3>\n        <p class=\"mbr-fonts-style mbr-text align-right\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-if=\"showText\">\n            Intro de ancho completo con altura ajustable e imagen de fondo. Haga clic en cualquier texto para editarlo o darle un estilo.\n        </p>\n        <div class=\"mbr-section-btn align-right\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">S\n            </a></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" plugins=\"amp-main\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Pantalla Completa\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Subtítulo\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Mostrar Texto\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Mostrar Botones\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Imagen de Fondo\" value=\"@PROJECT_PATH@/assets/images/fondo-nuevo-7-2000x2215.jpg\" selected>\n            <input type=\"color\" title=\"Color de Fondo\" value=\"#0dd1ff\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <h1 class=\"mbr-section-title mbr-fonts-style align-right mbr-bold mbr-white\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><span style=\"font-weight: normal;\">The 7th Conference on Large Hadron Collider Physics</span>&nbsp;</h1>\n        <h3 class=\"mbr-section-subtitle mbr-fonts-style align-right mbr-white mbr-light\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\" mbr-if=\"showSubTitle\">The 7th Conference on Large Hadron Collider Physics&nbsp;</h3>\n        <p class=\"mbr-fonts-style mbr-text align-right\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-if=\"showText\">\n            Intro de ancho completo con altura ajustable e imagen de fondo. Haga clic en cualquier texto para editarlo o darle un estilo.\n        </p>\n        <div class=\"mbr-section-btn align-right\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">S\n            </a></div>\n    </div>\n\n</section>",
           "_anchor": "header1-24",
           "_isUserblock": true,
           "_sourceTheme": "mobirise-amp",
@@ -428,7 +428,7 @@
     "page1.html": {
       "settings": {
         "title": "SPONSORS",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -659,247 +659,6 @@
     "page3.html": {
       "settings": {
         "title": "PREVIOUS EDITIONS",
-        "order": 8
-      },
-      "components": [
-        {
-          "_styles": {
-            "amp-sidebar": {
-              "min-width": "260px!important",
-              "z-index": "1050!important",
-              "background-color": "@menuBgColor"
-            },
-            "amp-sidebar.open:after": {
-              "content": "''",
-              "position": "absolute",
-              "top": "0",
-              "left": "0",
-              "bottom": "0",
-              "right": "0",
-              "background-color": "red"
-            },
-            ".open": {
-              "transform": "translateX(0%) !important",
-              "display": "block!important"
-            },
-            ".builder-sidebar": {
-              "background-color": "@menuBgColor",
-              "position": "relative",
-              "height": "100vh",
-              "z-index": "1030",
-              "padding": "1rem 2rem",
-              "max-width": "20rem"
-            },
-            ".headerbar": {
-              "display": "flex",
-              "flex-direction": "column",
-              "justify-content": "center",
-              "padding": ".5rem 1rem",
-              "min-height": "70px",
-              "align-items": "center",
-              "background": "@menuBgColor",
-              "&.sticky-nav": {
-                "position": "fixed",
-                "z-index": "1000",
-                "width": "100%"
-              }
-            },
-            "button.sticky-but": {
-              "position": "fixed"
-            },
-            ".brand": {
-              "display": "flex",
-              "align-items": "center",
-              "align-self": "flex-start",
-              "padding-right": "30px",
-              "p": {
-                "margin": "0",
-                "padding": "0"
-              }
-            },
-            ".brand-name": {
-              "color": "#197bc6"
-            },
-            ".sidebar": {
-              "padding": "1rem 0",
-              "margin": "0"
-            },
-            ".sidebar > li": {
-              "list-style": "none",
-              "display": "flex",
-              "flex-direction": "column"
-            },
-            ".sidebar a": {
-              "display": "block",
-              "text-decoration": "none",
-              "margin-bottom": "10px"
-            },
-            ".close-sidebar": {
-              "width": "30px",
-              "height": "30px",
-              "position": "relative",
-              "cursor": "pointer",
-              "background-color": "transparent",
-              "border": "none",
-              "&:focus": {
-                "outline": "2px auto @primaryColor"
-              },
-              "span": {
-                "position": "absolute",
-                "left": "0",
-                "width": "30px",
-                "height": "2px",
-                "border-right": "5px",
-                "background-color": "@hamburgerColor",
-                "&:nth-child(1)": {
-                  "transform": "rotate(45deg)"
-                },
-                "&:nth-child(2)": {
-                  "transform": "rotate(-45deg)"
-                }
-              }
-            },
-            "@media (min-width: 992px)": {
-              "& .brand-name": {
-                "min-width": "8rem"
-              },
-              "& .builder-sidebar": {
-                "margin-left": "auto",
-                ".sidebar li": {
-                  "flex-direction": "row",
-                  "flex-wrap": "wrap",
-                  "a": {
-                    "padding": ".5rem",
-                    "margin": "0"
-                  }
-                }
-              },
-              "& .builder-overlay": {
-                "display": "none !important"
-              }
-            },
-            ".hamburger": {
-              "position": "absolute",
-              "top": "25px",
-              "& when (@showLogo)": {
-                "@media (min-width: 768px)": {
-                  "top": "calc(0.5rem ~\"+\" @logoHeight ~\"*\" 0.5px ~\"-\" 10px)"
-                }
-              },
-              "right": "20px",
-              "margin-left": "auto",
-              "width": "30px",
-              "height": "20px",
-              "background": "none",
-              "border": "none",
-              "cursor": "pointer",
-              "z-index": "1000",
-              "&:focus": {
-                "outline": "none"
-              },
-              "span": {
-                "position": "absolute",
-                "right": "0",
-                "width": "30px",
-                "height": "2px",
-                "border-right": "5px",
-                "background-color": "@hamburgerColor",
-                "&:nth-child(1)": {
-                  "top": "0",
-                  "transition": "all .2s"
-                },
-                "&:nth-child(2)": {
-                  "top": "8px",
-                  "transition": "all .15s"
-                },
-                "&:nth-child(3)": {
-                  "top": "8px",
-                  "transition": "all .15s"
-                },
-                "&:nth-child(4)": {
-                  "top": "16px",
-                  "transition": "all .2s"
-                }
-              }
-            },
-            "amp-img": {
-              "height": "~\"@{logoHeight}px\"",
-              "width": "~\"@{logoWidth}px\"",
-              "margin-right": "1rem",
-              "display": "flex",
-              "align-items": "center",
-              "@media (max-width: 768px)": {
-                "max-height": "55px",
-                "max-width": "55px"
-              }
-            },
-            ".brand-name B": {
-              "color": "#ffffff"
-            }
-          },
-          "_name": "menu1",
-          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"amp-main,amp-sidebar\" global once=\"menu\" always-top position-absolute>\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Mostrar Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Altura Logo\" inline name=\"logoHeight\" min=\"55\" max=\"120\" value=\"113\" step=\"1\">\n        <input type=\"range\" title=\"Ancho Logo\" inline name=\"logoWidth\" min=\"55\" max=\"120\" value=\"76\" step=\"1\">\n\n        <input type=\"checkbox\" title=\"Mostrar Marca\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Enlaces\" name=\"showLinks\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Botón(es)\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Fijar Menú\" name=\"sticky\" checked>\n        <select title=\"Lado de la barra lateral\" name=\"sidebarSide\">\n            <option value=\"left\">Izquierda</option>\n            <option value=\"right\" selected>Derecha</option>\n        </select>\n        <input type=\"color\" title=\"Color de Fondo\" name=\"menuBgColor\" value=\"#232323\">\n        <input type=\"color\" title=\"Color Menú &quot;Hamburguesa&quot;\" name=\"hamburgerColor\" value=\"#197bc6\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <nav class=\"headerbar\" mbr-class=\"{'sticky-nav':sticky}\">\n      <div class=\"brand\">\n          <span mbr-if=\"showLogo\" class=\"brand-logo\">\n              <amp-img src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" layout=\"responsive\" width=\"76.69014084507042\" height=\"99\" alt=\"Mobirise\">\n                  <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" alt=\"Mobirise\" title>\n              </amp-img>\n          </span>\n          <p mbr-text mbr-theme-style=\"display-2\" mbr-if=\"showBrand\" class=\"brand-name mbr-fonts-style\" data-app-selector=\".brand-name\"><b><i>&nbsp; &nbsp; <a href=\"index.html\">LHCP 2019 </a><a href=\"index.html\">&nbsp;</a><a href=\"index.html\">&nbsp;</a></i></b></p>\n      </div>\n    </nav>\n    <amp-sidebar id=\"sidebar\" layout=\"nodisplay\" side=\"{{sidebarSide}}\">\n        <div class=\"builder-sidebar\" id=\"builder-sidebar\">\n            <button on=\"tap:sidebar.close\" class=\"close-sidebar\">\n                <span></span>\n                <span></span>\n            </button>\n\n            <div mbr-menu class=\"sidebar mbr-white\" mbr-theme-style=\"display-4\" mbr-if=\"showLinks\"><a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">HOME</a> <a class=\"text-white\" href=\"page4.html\" data-app-placeholder=\"Type Text\">REGISTRATION</a> <a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">PROCEEDINGS</a> <a class=\"text-white\" href=\"https://indico.cern.ch/event/687651/\" data-app-placeholder=\"Type Text\">PROGRAMME</a> <a class=\"text-white\" href=\"assets/files/POSTERLHCP19_NEW.pdf\" data-app-placeholder=\"Type Text\">POSTER</a> <a class=\"text-white\" href=\"page1.html\" data-app-placeholder=\"Type Text\">SPONSORS</a> <a class=\"text-white\" href=\"page3.html\" data-app-placeholder=\"Type Text\">PREVIOUS EDITIONS</a>\n              <a class=\"text-white\" href=\"#bottom\" data-app-placeholder=\"Type Text\">SOCIAL MEDIA<br><br></a></div>\n            \n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn align-center\"><a class=\"btn btn-sm btn-warning\" href=\"mailto:lhcp.2019@cern.ch\" data-app-placeholder=\"Type Text\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\">&nbsp;&nbsp;</span>CONTACT &nbsp;&nbsp;</a></div>\n        </div>\n    </amp-sidebar>\n    <button on=\"tap:sidebar.toggle\" class=\"ampstart-btn hamburger\" mbr-class=\"{'sticky-but':sticky}\">\n        <span></span>\n        <span></span>\n        <span></span>\n        <span></span>\n    </button>\n</section>",
-          "_cid": "qTij3msXo5",
-          "_anchor": "menu1-k",
-          "_protectedParams": [],
-          "_global": true,
-          "_once": "menu",
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text": {
-              "margin-bottom": "0",
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "margin": "0"
-            },
-            ".mbr-section-title B": {
-              "color": "#ffffff"
-            }
-          },
-          "_name": "content2",
-          "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    <br><b>Previous Editions\n                </b></h3>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><a href=\"http://lhcp2018.bo.infn.it/index.html#fh5co-about\" target=\"_blank\">LHCP 2018, Bologna, Italy</a><br><a href=\"http://lhcp2017.physics.sjtu.edu.cn/\" target=\"_blank\">LHCP 2017, Shanghai, China</a><br><a href=\"http://lhcp2016.hep.lu.se/\" target=\"_blank\">LHCP 2016, Lund, Sweden</a><br><a href=\"http://lhcp2015.com/\" target=\"_blank\">LHCP 2015, St. Petersburg, Russia</a><br><a href=\"https://www.bnl.gov/lhcp2014/\" target=\"_blank\">LHCP 2014, New York, USA</a><br><a href=\"http://lhcp2013.ifae.es/\" target=\"_blank\">LHCP 2013, Barcelona, Spain</a></p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qTob1QuDYx",
-          "_anchor": "content2-n",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "p": {
-              "margin": "0",
-              "color": "#ffffff"
-            }
-          },
-          "_name": "footer1",
-          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#232323\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"></p>\n        </div>\n    </div>\n</section>",
-          "_cid": "r76lt2vNLH",
-          "_anchor": "footer1-23",
-          "_protectedParams": [],
-          "_global": true,
-          "_once": "footer",
-          "_params": {}
-        }
-      ]
-    },
-    "page4.html": {
-      "settings": {
-        "title": "REGISTRATION",
         "order": 7
       },
       "components": [
@@ -1079,9 +838,9 @@
             }
           },
           "_name": "menu1",
-          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"amp-main,amp-sidebar\" global once=\"menu\" always-top position-absolute>\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Mostrar Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Altura Logo\" inline name=\"logoHeight\" min=\"55\" max=\"120\" value=\"113\" step=\"1\">\n        <input type=\"range\" title=\"Ancho Logo\" inline name=\"logoWidth\" min=\"55\" max=\"120\" value=\"76\" step=\"1\">\n\n        <input type=\"checkbox\" title=\"Mostrar Marca\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Enlaces\" name=\"showLinks\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Botón(es)\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Fijar Menú\" name=\"sticky\" checked>\n        <select title=\"Lado de la barra lateral\" name=\"sidebarSide\">\n            <option value=\"left\">Izquierda</option>\n            <option value=\"right\" selected>Derecha</option>\n        </select>\n        <input type=\"color\" title=\"Color de Fondo\" name=\"menuBgColor\" value=\"#232323\">\n        <input type=\"color\" title=\"Color Menú &quot;Hamburguesa&quot;\" name=\"hamburgerColor\" value=\"#197bc6\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <nav class=\"headerbar\" mbr-class=\"{'sticky-nav':sticky}\">\n      <div class=\"brand\">\n          <span mbr-if=\"showLogo\" class=\"brand-logo\">\n              <amp-img src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" layout=\"responsive\" width=\"76.69014084507042\" height=\"99\" alt=\"Mobirise\">\n                  <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" alt=\"Mobirise\" title>\n              </amp-img>\n          </span>\n          <p mbr-text mbr-theme-style=\"display-2\" mbr-if=\"showBrand\" class=\"brand-name mbr-fonts-style\" data-app-selector=\".brand-name\"><b><i>&nbsp; &nbsp; <a href=\"index.html\">LHCP 2019 </a><a href=\"index.html\">&nbsp;</a><a href=\"index.html\">&nbsp;</a></i></b></p>\n      </div>\n    </nav>\n    <amp-sidebar id=\"sidebar\" layout=\"nodisplay\" side=\"{{sidebarSide}}\">\n        <div class=\"builder-sidebar\" id=\"builder-sidebar\">\n            <button on=\"tap:sidebar.close\" class=\"close-sidebar\">\n                <span></span>\n                <span></span>\n            </button>\n\n            <div mbr-menu class=\"sidebar mbr-white\" mbr-theme-style=\"display-4\" mbr-if=\"showLinks\"><a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">HOME</a> <a class=\"text-white\" href=\"page4.html\" data-app-placeholder=\"Type Text\">REGISTRATION</a> <a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">PROCEEDINGS</a> <a class=\"text-white\" href=\"https://indico.cern.ch/event/687651/\" data-app-placeholder=\"Type Text\">PROGRAMME</a> <a class=\"text-white\" href=\"assets/files/POSTERLHCP19_NEW.pdf\" data-app-placeholder=\"Type Text\">POSTER</a> <a class=\"text-white\" href=\"page1.html\" data-app-placeholder=\"Type Text\">SPONSORS</a> <a class=\"text-white\" href=\"page3.html\" data-app-placeholder=\"Type Text\">PREVIOUS EDITIONS</a>\n              <a class=\"text-white\" href=\"#bottom\" data-app-placeholder=\"Type Text\">SOCIAL MEDIA<br><br></a></div>\n            \n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn align-center\"><a class=\"btn btn-sm btn-warning\" href=\"mailto:lhcp.2019@cern.ch\" data-app-placeholder=\"Type Text\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\">&nbsp;&nbsp;</span>CONTACT &nbsp;&nbsp;</a></div>\n        </div>\n    </amp-sidebar>\n    <button on=\"tap:sidebar.toggle\" class=\"ampstart-btn hamburger\" mbr-class=\"{'sticky-but':sticky}\">\n        <span></span>\n        <span></span>\n        <span></span>\n        <span></span>\n    </button>\n</section>",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"amp-main,amp-sidebar\" global=\"\" once=\"menu\" always-top=\"\" position-absolute=\"\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Mostrar Logo\" name=\"showLogo\" checked=\"\">\n        <input type=\"range\" title=\"Altura Logo\" inline=\"\" name=\"logoHeight\" min=\"55\" max=\"120\" value=\"113\" step=\"1\">\n        <input type=\"range\" title=\"Ancho Logo\" inline=\"\" name=\"logoWidth\" min=\"55\" max=\"120\" value=\"76\" step=\"1\">\n\n        <input type=\"checkbox\" title=\"Mostrar Marca\" name=\"showBrand\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Enlaces\" name=\"showLinks\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Botón(es)\" name=\"showButtons\" checked=\"\">\n        <input type=\"checkbox\" title=\"Fijar Menú\" name=\"sticky\" checked=\"\">\n        <select title=\"Lado de la barra lateral\" name=\"sidebarSide\">\n            <option value=\"left\">Izquierda</option>\n            <option value=\"right\" selected=\"\">Derecha</option>\n        </select>\n        <input type=\"color\" title=\"Color de Fondo\" name=\"menuBgColor\" value=\"#232323\">\n        <input type=\"color\" title=\"Color Menú &quot;Hamburguesa&quot;\" name=\"hamburgerColor\" value=\"#197bc6\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <nav class=\"headerbar\" mbr-class=\"{'sticky-nav':sticky}\">\n      <div class=\"brand\">\n          <span mbr-if=\"showLogo\" class=\"brand-logo\">\n              <amp-img src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" layout=\"responsive\" width=\"76.69014084507042\" height=\"99\" alt=\"Mobirise\">\n                  <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" alt=\"Mobirise\" title=\"\">\n              </amp-img>\n          </span>\n          <p mbr-text=\"\" mbr-theme-style=\"display-2\" mbr-if=\"showBrand\" class=\"brand-name mbr-fonts-style\" data-app-selector=\".brand-name\"><b><i>&nbsp; &nbsp; <a href=\"index.html\">LHCP 2019 </a><a href=\"index.html\">&nbsp;</a><a href=\"index.html\">&nbsp;</a></i></b></p>\n      </div>\n    </nav>\n    <amp-sidebar id=\"sidebar\" layout=\"nodisplay\" side=\"{{sidebarSide}}\">\n        <div class=\"builder-sidebar\" id=\"builder-sidebar\">\n            <button on=\"tap:sidebar.close\" class=\"close-sidebar\">\n                <span></span>\n                <span></span>\n            </button>\n\n            <div mbr-menu=\"\" class=\"sidebar mbr-white\" mbr-theme-style=\"display-4\" mbr-if=\"showLinks\"><a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">HOME</a> <a class=\"text-white\" href=\"page4.html\" data-app-placeholder=\"Type Text\">REGISTRATION</a> <a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">PROCEEDINGS</a> <a class=\"text-white\" href=\"https://indico.cern.ch/event/687651/\" data-app-placeholder=\"Type Text\">PROGRAMME</a> <a class=\"text-white\" href=\"assets/files/POSTERLHCP19_NEW.pdf\" data-app-placeholder=\"Type Text\">POSTER</a> <a class=\"text-white\" href=\"page1.html\" data-app-placeholder=\"Type Text\">SPONSORS</a> <a class=\"text-white\" href=\"page3.html\" data-app-placeholder=\"Type Text\">PREVIOUS EDITIONS</a>\n              <a class=\"text-white\" href=\"#bottom\" data-app-placeholder=\"Type Text\">SOCIAL MEDIA<br><br></a></div>\n            \n            <div mbr-if=\"showButtons\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn align-center\"><a class=\"btn btn-sm btn-warning\" href=\"mailto:lhcp.2019@cern.ch\" data-app-placeholder=\"Type Text\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\">&nbsp;&nbsp;</span>CONTACT &nbsp;&nbsp;</a></div>\n        </div>\n    </amp-sidebar>\n    <button on=\"tap:sidebar.toggle\" class=\"ampstart-btn hamburger\" mbr-class=\"{'sticky-but':sticky}\">\n        <span></span>\n        <span></span>\n        <span></span>\n        <span></span>\n    </button>\n</section>",
           "_cid": "qTij3msXo5",
-          "_anchor": "menu1-l",
+          "_anchor": "menu1-k",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
@@ -1092,63 +851,55 @@
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
-            ".counter-container": {
-              "ol": {
-                "margin-bottom": "0",
-                "li": {
-                  "margin-bottom": "2rem"
-                },
-                "& when (@stylizedCounters)": {
-                  "counter-reset": "myCounter",
-                  "li": {
-                    "z-index": "3",
-                    "list-style": "none",
-                    "padding-left": ".5rem",
-                    "&:before": {
-                      "z-index": "2",
-                      "position": "absolute",
-                      "left": "0px",
-                      "counter-increment": "myCounter",
-                      "content": "counter(myCounter)",
-                      "text-align": "center",
-                      "margin": "0 10px",
-                      "line-height": "30px",
-                      "transition": "all .2s",
-                      "width": "35px",
-                      "height": "35px",
-                      "color": "@counterColor",
-                      "font-size": "20px",
-                      "font-weight": "bold",
-                      "border-radius": "50%",
-                      "border": "2px solid @counterColor",
-                      "opacity": "@counterOpacity"
-                    }
-                  }
-                }
-              }
+            ".mbr-text": {
+              "margin-bottom": "0",
+              "color": "#ffffff"
             },
-            ".mbr-text DIV": {
-              "color": "#ffffff",
-              "text-align": "left"
+            ".mbr-section-title": {
+              "margin": "0"
             },
-            ".mbr-text B": {
+            ".mbr-section-title B": {
               "color": "#ffffff"
             }
           },
-          "_name": "content9",
-          "_customHTML": "<section class=\"mbr-section content9\" plugins=\"amp-main\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Numeración Personalizada\" name=\"stylizedCounters\" checked>\n        \n        <input type=\"color\" title=\"Color de Numeración\" name=\"counterColor\" value=\"#ffffff\" condition=\"stylizedCounters\">\n        <input type=\"range\" title=\"Opacidad de Numeración\" inline name=\"counterOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"stylizedCounters\">\n        \n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#197bc6\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"mbr-container\">\n        <div class=\"mbr-text counter-container mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n            <div><br></div><div><br></div><ol><li><b style=\"font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit;\">REGISTRATION FEES</b><br></li><li><b style=\"font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit;\">ACCOMPANYING PERSON FEE</b></li></ol><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\">1. The Standard Fee is 400 USD. for participant registration and 320 USD for student </span></font><span style=\"letter-spacing: 0.5px; color: rgb(21, 24, 27);\">registration.&nbsp;</span></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b><i><br></i></b></span></font></div><div><i><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\">These fees include all breaks, conference materials and welcome kit, conference rooms entrance, coffee breaks, reception, conference dinner and 1 excursion with bus service.\n</span></font><span style=\"font-family: inherit; font-size: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; letter-spacing: 0.5px; color: rgb(21, 24, 27);\">&nbsp;</span></i></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><br></span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\">Financial support will be provided to a limited number of students and young postdocs, typically in the form of full or partial waiving of the conference fee. There will be limited participants (up to 100 participants including students and postdocs) the local organization will also arrange the shuttle bus service from Mexico City to Puebla City.\n</span></font><span style=\"font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; letter-spacing: 0.5px; color: rgb(21, 24, 27);\">&nbsp;Applications for financial support must be addressed to lhcp.2019@cern.ch together with a CV and a reference letter from a supervisor, no later than the 31st of March.</span></div><div><br></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b>2. There is a possibility of accompanying persons paying a one-off 100 USD fee that will cover the conference dinner, excursion with bus service and welcome kit. This accompanying person fee must be included during the registration process.</b></span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b><br></b></span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b>CANCELLATION DEADLINE</b></span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b><br></b></span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\">Cancellation with reimbursement of fee is possible by <b>email to lhcp.2019@cern.ch: 31st March 2019. </b>After this date no refunds will be permitted.&nbsp;</span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b><br></b></span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b>METHOD OF PAYMENT</b></span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b><br></b></span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b>-CASH in the registration table at your arrival to the conference.</b></span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b><br></b></span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b>-Bank transfer</b></span></font></div><div><br></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b><br></b></span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b>Bank Transfer:&nbsp;</b></span></font><span style=\"font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; letter-spacing: 0.5px; color: rgb(21, 24, 27);\">The following reference has imperatively to be mentioned: LHCP2019 fee and the name of every person for whom the fee is being paid. Please make sure that you include the cost of bank fees so that the precise fee amount reaches the conference account below:</span></div><div><br></div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qTmGg58K32",
-          "_anchor": "content9-m",
+          "_name": "content2",
+          "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    <br><b>Previous Editions\n                </b></h3>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><a href=\"http://lhcp2018.bo.infn.it/index.html#fh5co-about\" target=\"_blank\">LHCP 2018, Bologna, Italy</a><br><a href=\"http://lhcp2017.physics.sjtu.edu.cn/\" target=\"_blank\">LHCP 2017, Shanghai, China</a><br><a href=\"http://lhcp2016.hep.lu.se/\" target=\"_blank\">LHCP 2016, Lund, Sweden</a><br><a href=\"http://lhcp2015.com/\" target=\"_blank\">LHCP 2015, St. Petersburg, Russia</a><br><a href=\"https://www.bnl.gov/lhcp2014/\" target=\"_blank\">LHCP 2014, New York, USA</a><br><a href=\"http://lhcp2013.ifae.es/\" target=\"_blank\">LHCP 2013, Barcelona, Spain</a></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qTob1QuDYx",
+          "_anchor": "content2-n",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "p": {
+              "margin": "0",
+              "color": "#ffffff"
+            }
+          },
+          "_name": "footer1",
+          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#232323\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"></p>\n        </div>\n    </div>\n</section>",
+          "_cid": "r76lt2vNLH",
+          "_anchor": "footer1-23",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "footer",
+          "_params": {}
         }
       ]
     },
-    "page5.html": {
+    "page4.html": {
       "settings": {
-        "title": "ACCOMODATION",
+        "title": "REGISTRATION",
         "order": 6
       },
       "components": [
@@ -1328,9 +1079,9 @@
             }
           },
           "_name": "menu1",
-          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"amp-main,amp-sidebar\" global once=\"menu\" always-top position-absolute>\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Mostrar Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Altura Logo\" inline name=\"logoHeight\" min=\"55\" max=\"120\" value=\"113\" step=\"1\">\n        <input type=\"range\" title=\"Ancho Logo\" inline name=\"logoWidth\" min=\"55\" max=\"120\" value=\"76\" step=\"1\">\n\n        <input type=\"checkbox\" title=\"Mostrar Marca\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Enlaces\" name=\"showLinks\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Botón(es)\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Fijar Menú\" name=\"sticky\" checked>\n        <select title=\"Lado de la barra lateral\" name=\"sidebarSide\">\n            <option value=\"left\">Izquierda</option>\n            <option value=\"right\" selected>Derecha</option>\n        </select>\n        <input type=\"color\" title=\"Color de Fondo\" name=\"menuBgColor\" value=\"#232323\">\n        <input type=\"color\" title=\"Color Menú &quot;Hamburguesa&quot;\" name=\"hamburgerColor\" value=\"#197bc6\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <nav class=\"headerbar\" mbr-class=\"{'sticky-nav':sticky}\">\n      <div class=\"brand\">\n          <span mbr-if=\"showLogo\" class=\"brand-logo\">\n              <amp-img src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" layout=\"responsive\" width=\"76.69014084507042\" height=\"99\" alt=\"Mobirise\">\n                  <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" alt=\"Mobirise\" title>\n              </amp-img>\n          </span>\n          <p mbr-text mbr-theme-style=\"display-2\" mbr-if=\"showBrand\" class=\"brand-name mbr-fonts-style\" data-app-selector=\".brand-name\"><b><i>&nbsp; &nbsp; <a href=\"index.html\">LHCP 2019 </a><a href=\"index.html\">&nbsp;</a><a href=\"index.html\">&nbsp;</a></i></b></p>\n      </div>\n    </nav>\n    <amp-sidebar id=\"sidebar\" layout=\"nodisplay\" side=\"{{sidebarSide}}\">\n        <div class=\"builder-sidebar\" id=\"builder-sidebar\">\n            <button on=\"tap:sidebar.close\" class=\"close-sidebar\">\n                <span></span>\n                <span></span>\n            </button>\n\n            <div mbr-menu class=\"sidebar mbr-white\" mbr-theme-style=\"display-4\" mbr-if=\"showLinks\"><a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">HOME</a> <a class=\"text-white\" href=\"page4.html\" data-app-placeholder=\"Type Text\">REGISTRATION</a> <a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">PROCEEDINGS</a> <a class=\"text-white\" href=\"https://indico.cern.ch/event/687651/\" data-app-placeholder=\"Type Text\">PROGRAMME</a> <a class=\"text-white\" href=\"assets/files/POSTERLHCP19_NEW.pdf\" data-app-placeholder=\"Type Text\">POSTER</a> <a class=\"text-white\" href=\"page1.html\" data-app-placeholder=\"Type Text\">SPONSORS</a> <a class=\"text-white\" href=\"page3.html\" data-app-placeholder=\"Type Text\">PREVIOUS EDITIONS</a>\n              <a class=\"text-white\" href=\"#bottom\" data-app-placeholder=\"Type Text\">SOCIAL MEDIA<br><br></a></div>\n            \n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn align-center\"><a class=\"btn btn-sm btn-warning\" href=\"mailto:lhcp.2019@cern.ch\" data-app-placeholder=\"Type Text\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\">&nbsp;&nbsp;</span>CONTACT &nbsp;&nbsp;</a></div>\n        </div>\n    </amp-sidebar>\n    <button on=\"tap:sidebar.toggle\" class=\"ampstart-btn hamburger\" mbr-class=\"{'sticky-but':sticky}\">\n        <span></span>\n        <span></span>\n        <span></span>\n        <span></span>\n    </button>\n</section>",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"amp-main,amp-sidebar\" global=\"\" once=\"menu\" always-top=\"\" position-absolute=\"\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Mostrar Logo\" name=\"showLogo\" checked=\"\">\n        <input type=\"range\" title=\"Altura Logo\" inline=\"\" name=\"logoHeight\" min=\"55\" max=\"120\" value=\"113\" step=\"1\">\n        <input type=\"range\" title=\"Ancho Logo\" inline=\"\" name=\"logoWidth\" min=\"55\" max=\"120\" value=\"76\" step=\"1\">\n\n        <input type=\"checkbox\" title=\"Mostrar Marca\" name=\"showBrand\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Enlaces\" name=\"showLinks\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Botón(es)\" name=\"showButtons\" checked=\"\">\n        <input type=\"checkbox\" title=\"Fijar Menú\" name=\"sticky\" checked=\"\">\n        <select title=\"Lado de la barra lateral\" name=\"sidebarSide\">\n            <option value=\"left\">Izquierda</option>\n            <option value=\"right\" selected=\"\">Derecha</option>\n        </select>\n        <input type=\"color\" title=\"Color de Fondo\" name=\"menuBgColor\" value=\"#232323\">\n        <input type=\"color\" title=\"Color Menú &quot;Hamburguesa&quot;\" name=\"hamburgerColor\" value=\"#197bc6\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <nav class=\"headerbar\" mbr-class=\"{'sticky-nav':sticky}\">\n      <div class=\"brand\">\n          <span mbr-if=\"showLogo\" class=\"brand-logo\">\n              <amp-img src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" layout=\"responsive\" width=\"76.69014084507042\" height=\"99\" alt=\"Mobirise\">\n                  <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" alt=\"Mobirise\" title=\"\">\n              </amp-img>\n          </span>\n          <p mbr-text=\"\" mbr-theme-style=\"display-2\" mbr-if=\"showBrand\" class=\"brand-name mbr-fonts-style\" data-app-selector=\".brand-name\"><b><i>&nbsp; &nbsp; <a href=\"index.html\">LHCP 2019 </a><a href=\"index.html\">&nbsp;</a><a href=\"index.html\">&nbsp;</a></i></b></p>\n      </div>\n    </nav>\n    <amp-sidebar id=\"sidebar\" layout=\"nodisplay\" side=\"{{sidebarSide}}\">\n        <div class=\"builder-sidebar\" id=\"builder-sidebar\">\n            <button on=\"tap:sidebar.close\" class=\"close-sidebar\">\n                <span></span>\n                <span></span>\n            </button>\n\n            <div mbr-menu=\"\" class=\"sidebar mbr-white\" mbr-theme-style=\"display-4\" mbr-if=\"showLinks\"><a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">HOME</a> <a class=\"text-white\" href=\"page4.html\" data-app-placeholder=\"Type Text\">REGISTRATION</a> <a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">PROCEEDINGS</a> <a class=\"text-white\" href=\"https://indico.cern.ch/event/687651/\" data-app-placeholder=\"Type Text\">PROGRAMME</a> <a class=\"text-white\" href=\"assets/files/POSTERLHCP19_NEW.pdf\" data-app-placeholder=\"Type Text\">POSTER</a> <a class=\"text-white\" href=\"page1.html\" data-app-placeholder=\"Type Text\">SPONSORS</a> <a class=\"text-white\" href=\"page3.html\" data-app-placeholder=\"Type Text\">PREVIOUS EDITIONS</a>\n              <a class=\"text-white\" href=\"#bottom\" data-app-placeholder=\"Type Text\">SOCIAL MEDIA<br><br></a></div>\n            \n            <div mbr-if=\"showButtons\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn align-center\"><a class=\"btn btn-sm btn-warning\" href=\"mailto:lhcp.2019@cern.ch\" data-app-placeholder=\"Type Text\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\">&nbsp;&nbsp;</span>CONTACT &nbsp;&nbsp;</a></div>\n        </div>\n    </amp-sidebar>\n    <button on=\"tap:sidebar.toggle\" class=\"ampstart-btn hamburger\" mbr-class=\"{'sticky-but':sticky}\">\n        <span></span>\n        <span></span>\n        <span></span>\n        <span></span>\n    </button>\n</section>",
           "_cid": "qTij3msXo5",
-          "_anchor": "menu1-s",
+          "_anchor": "menu1-l",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
@@ -1341,111 +1092,53 @@
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
-            ".mbr-text": {
-              "padding": "2rem 0",
+            ".counter-container": {
+              "ol": {
+                "margin-bottom": "0",
+                "li": {
+                  "margin-bottom": "2rem"
+                },
+                "& when (@stylizedCounters)": {
+                  "counter-reset": "myCounter",
+                  "li": {
+                    "z-index": "3",
+                    "list-style": "none",
+                    "padding-left": ".5rem",
+                    "&:before": {
+                      "z-index": "2",
+                      "position": "absolute",
+                      "left": "0px",
+                      "counter-increment": "myCounter",
+                      "content": "counter(myCounter)",
+                      "text-align": "center",
+                      "margin": "0 10px",
+                      "line-height": "30px",
+                      "transition": "all .2s",
+                      "width": "35px",
+                      "height": "35px",
+                      "color": "@counterColor",
+                      "font-size": "20px",
+                      "font-weight": "bold",
+                      "border-radius": "50%",
+                      "border": "2px solid @counterColor",
+                      "opacity": "@counterOpacity"
+                    }
+                  }
+                }
+              }
+            },
+            ".mbr-text DIV": {
+              "color": "#ffffff",
               "text-align": "left"
-            }
-          },
-          "_name": "content16",
-          "_customHTML": "<section class=\"content16 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-white mbr-bold\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" mbr-text>\n            <span style=\"font-weight: normal;\"><br></span><br>ACCOMODATION<br><br><span style=\"font-weight: normal;\">Participants are kindly invited to book their room directly. Early booking is highly recommended. A limited number of rooms have been blocked in the hotels listed below. They are located very near in walking distance from the venue. When booking, inform the hotel that you will be attending the </span><i>LHCP 2019 conference</i><span style=\"font-weight: normal;\">. </span><br><br><span style=\"font-weight: normal;\">Bookings are made on a first-come first-served basis. After the expiration date, the availability of rooms is no longer guaranteed. The rates below have been negotiated with the hotels, but you may want to check whether online booking is more convenient at a given moment. Given ranges refer to different types of room.&nbsp;</span><span style=\"font-weight: normal;\">In case of any problem, please </span><a href=\"mailto:lhcp.2019@cern.ch\"><b>contact </b></a><span style=\"font-weight: normal;\">the local organisers at </span>lhcp.2019@cern.ch</div>\n    </div>\n</section>",
-          "_cid": "r76hJad75f",
-          "_anchor": "content16-22",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
             },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            ".card": {
-              "margin-bottom": "20px",
-              "position": "relative",
-              "display": "flex",
-              "-ms-flex-direction": "column",
-              "flex-direction": "column",
-              "min-width": "0",
-              "word-wrap": "break-word",
-              "background-clip": "border-box",
-              "border-radius": ".25rem",
-              "width": "100%",
-              "min-height": "1px"
-            },
-            ".card-title": {
-              "margin": "0"
-            },
-            ".card-box": {
-              "padding-top": "2rem"
-            },
-            "amp-img": {
-              "width": "100%"
-            },
-            ".mbr-text": {
+            ".mbr-text B": {
               "color": "#ffffff"
-            },
-            ".card-title B": {
-              "color": "#197bc6"
             }
           },
-          "_name": "features1",
-          "_customHTML": "<section class=\"features1 mbr-section\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Texto\" name=\"showText\" checked=\"\">\n        <select title=\"Tarjetas\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected=\"\">2</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Imagen de Fondo\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Color de Fondo\" value=\"#232323\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/cra-1080x648.jpg\" layout=\"responsive\" width=\"540\" height=\"324\" alt=\"Mobirise\">\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/cra-1080x648.jpg\" alt=\"Mobirise\" title=\"\">\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style align-left mbr-light\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".card-title\"><b>Camino Real Angelópolis</b></h4>\n                        <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">(5 star) 153 rooms available, $60 per night. Breakfast included. Distance: 3.9 km. away from the Venue and 15 minutes by foot.<br><a href=\"https://www.caminoreal.com/\">Visit website</a></p>\n                    </div>\n                </div>\n            </div>\n            \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-if=\"cardsAmount > 1\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/gfa1-2-500x350.jpg\" layout=\"responsive\" height=\"317\" width=\"539.2268041237113\" alt=\"Mobirise\">\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/gfa1-2-500x350.jpg\" alt=\"Mobirise\" title=\"\">\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style align-left mbr-light\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".card-title\"><b>Grand Fiesta Americana Angelópolis&nbsp;</b></h4>\n                        <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            (4 star) 80 rooms available, $60 per night. Breaksfast included. Distance: 4.6 km away from the Venue and 15 minutes by foot.<br><a href=\"http://www.grandfiestamericana.com/Puebla\">Visit website</a><br>\n                        </p>\n                    </div>\n                </div>\n            </div>\n            \n        </div>\n    </div>\n</section>",
-          "_cid": "qToAahyGCV",
-          "_anchor": "features1-t",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            ".card": {
-              "margin-bottom": "20px",
-              "position": "relative",
-              "display": "flex",
-              "-ms-flex-direction": "column",
-              "flex-direction": "column",
-              "min-width": "0",
-              "word-wrap": "break-word",
-              "background-clip": "border-box",
-              "border-radius": ".25rem",
-              "width": "100%",
-              "min-height": "1px"
-            },
-            ".card-title": {
-              "margin": "0"
-            },
-            ".card-box": {
-              "padding-top": "2rem"
-            },
-            "amp-img": {
-              "width": "100%"
-            },
-            ".mbr-text": {
-              "color": "#ffffff"
-            },
-            ".card-title B": {
-              "color": "#197bc6"
-            }
-          },
-          "_name": "features1",
-          "_customHTML": "<section class=\"features1 mbr-section\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Texto\" name=\"showText\" checked>\n        <select title=\"Tarjetas\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected>2</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Imagen de Fondo\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Color de Fondo\" value=\"#232323\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/hotel-hi-640x426.jpg\" layout=\"responsive\" width=\"539.3427230046948\" height=\"359\" alt=\"Mobirise\">\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/hotel-hi-640x426.jpg\" alt=\"Mobirise\" title>\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style align-left mbr-light\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".card-title\"><b>Holiday Inn Express &amp; Suites Puebla</b></h4>\n                        <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">(3 star) 148 rooms available, $50 per night. Breakfast included. Distance: 3 km. away from the Venue and 6 minutes by car. <a href=\"http://www.hiexangelopolis.com.mx/\">Visit website</a></p>\n                    </div>\n                </div>\n            </div>\n            \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-if=\"cardsAmount > 1\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/colonial-2-1000x750.jpg\" layout=\"responsive\" height=\"353\" width=\"540.1063174114022\" alt=\"Mobirise\">\n                            <a href=\"http://www.colonial.com.mx\"><img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/colonial-2-1000x750.jpg\" alt=\"Mobirise\" title></a>\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style align-left mbr-light\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".card-title\"><b>Hotel Colonial&nbsp;</b></h4>\n                        <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">(3 star) 66 rooms available, $45 per night. Breaksfast included. Distance: 6.8 km away from the Venue and 17 minutes by car. <a href=\"http://www.colonial.com.mx\">Visit website</a>&nbsp;<br></p>\n                    </div>\n                </div>\n            </div>\n            \n        </div>\n    </div>\n</section>",
-          "_cid": "qToAc4flZX",
-          "_anchor": "features1-u",
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section content9\" plugins=\"amp-main\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Numeración Personalizada\" name=\"stylizedCounters\" checked>\n        \n        <input type=\"color\" title=\"Color de Numeración\" name=\"counterColor\" value=\"#ffffff\" condition=\"stylizedCounters\">\n        <input type=\"range\" title=\"Opacidad de Numeración\" inline name=\"counterOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"stylizedCounters\">\n        \n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#197bc6\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"mbr-container\">\n        <div class=\"mbr-text counter-container mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n            <div><br></div><div><br></div><ol><li><b style=\"font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit;\">REGISTRATION FEES</b><br></li><li><b style=\"font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit;\">ACCOMPANYING PERSON FEE</b></li></ol><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\">1. The Standard Fee is 400 USD. for participant registration and 320 USD for student </span></font><span style=\"letter-spacing: 0.5px; color: rgb(21, 24, 27);\">registration.&nbsp;</span></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b><i><br></i></b></span></font></div><div><i><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\">These fees include all breaks, conference materials and welcome kit, conference rooms entrance, coffee breaks, reception, conference dinner and 1 excursion with bus service.\n</span></font><span style=\"font-family: inherit; font-size: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; letter-spacing: 0.5px; color: rgb(21, 24, 27);\">&nbsp;</span></i></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><br></span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\">Financial support will be provided to a limited number of students and young postdocs, typically in the form of full or partial waiving of the conference fee. There will be limited participants (up to 100 participants including students and postdocs) the local organization will also arrange the shuttle bus service from Mexico City to Puebla City.\n</span></font><span style=\"font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; letter-spacing: 0.5px; color: rgb(21, 24, 27);\">&nbsp;Applications for financial support must be addressed to lhcp.2019@cern.ch together with a CV and a reference letter from a supervisor, no later than the 31st of March.</span></div><div><br></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b>2. There is a possibility of accompanying persons paying a one-off 100 USD fee that will cover the conference dinner, excursion with bus service and welcome kit. This accompanying person fee must be included during the registration process.</b></span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b><br></b></span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b>CANCELLATION DEADLINE</b></span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b><br></b></span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\">Cancellation with reimbursement of fee is possible by <b>email to lhcp.2019@cern.ch: 31st March 2019. </b>After this date no refunds will be permitted.&nbsp;</span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b><br></b></span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b>METHOD OF PAYMENT</b></span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b><br></b></span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b>-CASH in the registration table at your arrival to the conference.</b></span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b><br></b></span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b>-Bank transfer</b></span></font></div><div><br></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b><br></b></span></font></div><div><font color=\"#15181b\"><span style=\"letter-spacing: 0.5px;\"><b>Bank Transfer:&nbsp;</b></span></font><span style=\"font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; letter-spacing: 0.5px; color: rgb(21, 24, 27);\">The following reference has imperatively to be mentioned: LHCP2019 fee and the name of every person for whom the fee is being paid. Please make sure that you include the cost of bank fees so that the precise fee amount reaches the conference account below:</span></div><div><br></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qTmGg58K32",
+          "_anchor": "content9-m",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -1453,9 +1146,9 @@
         }
       ]
     },
-    "page6.html": {
+    "page5.html": {
       "settings": {
-        "title": "VENUE",
+        "title": "ACCOMODATION",
         "order": 5
       },
       "components": [
@@ -1635,34 +1328,12 @@
             }
           },
           "_name": "menu1",
-          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"amp-main,amp-sidebar\" global once=\"menu\" always-top position-absolute>\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Mostrar Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Altura Logo\" inline name=\"logoHeight\" min=\"55\" max=\"120\" value=\"113\" step=\"1\">\n        <input type=\"range\" title=\"Ancho Logo\" inline name=\"logoWidth\" min=\"55\" max=\"120\" value=\"76\" step=\"1\">\n\n        <input type=\"checkbox\" title=\"Mostrar Marca\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Enlaces\" name=\"showLinks\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Botón(es)\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Fijar Menú\" name=\"sticky\" checked>\n        <select title=\"Lado de la barra lateral\" name=\"sidebarSide\">\n            <option value=\"left\">Izquierda</option>\n            <option value=\"right\" selected>Derecha</option>\n        </select>\n        <input type=\"color\" title=\"Color de Fondo\" name=\"menuBgColor\" value=\"#232323\">\n        <input type=\"color\" title=\"Color Menú &quot;Hamburguesa&quot;\" name=\"hamburgerColor\" value=\"#197bc6\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <nav class=\"headerbar\" mbr-class=\"{'sticky-nav':sticky}\">\n      <div class=\"brand\">\n          <span mbr-if=\"showLogo\" class=\"brand-logo\">\n              <amp-img src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" layout=\"responsive\" width=\"76.69014084507042\" height=\"99\" alt=\"Mobirise\">\n                  <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" alt=\"Mobirise\" title>\n              </amp-img>\n          </span>\n          <p mbr-text mbr-theme-style=\"display-2\" mbr-if=\"showBrand\" class=\"brand-name mbr-fonts-style\" data-app-selector=\".brand-name\"><b><i>&nbsp; &nbsp; <a href=\"index.html\">LHCP 2019 </a><a href=\"index.html\">&nbsp;</a><a href=\"index.html\">&nbsp;</a></i></b></p>\n      </div>\n    </nav>\n    <amp-sidebar id=\"sidebar\" layout=\"nodisplay\" side=\"{{sidebarSide}}\">\n        <div class=\"builder-sidebar\" id=\"builder-sidebar\">\n            <button on=\"tap:sidebar.close\" class=\"close-sidebar\">\n                <span></span>\n                <span></span>\n            </button>\n\n            <div mbr-menu class=\"sidebar mbr-white\" mbr-theme-style=\"display-4\" mbr-if=\"showLinks\"><a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">HOME</a> <a class=\"text-white\" href=\"page4.html\" data-app-placeholder=\"Type Text\">REGISTRATION</a> <a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">PROCEEDINGS</a> <a class=\"text-white\" href=\"https://indico.cern.ch/event/687651/\" data-app-placeholder=\"Type Text\">PROGRAMME</a> <a class=\"text-white\" href=\"assets/files/POSTERLHCP19_NEW.pdf\" data-app-placeholder=\"Type Text\">POSTER</a> <a class=\"text-white\" href=\"page1.html\" data-app-placeholder=\"Type Text\">SPONSORS</a> <a class=\"text-white\" href=\"page3.html\" data-app-placeholder=\"Type Text\">PREVIOUS EDITIONS</a>\n              <a class=\"text-white\" href=\"#bottom\" data-app-placeholder=\"Type Text\">SOCIAL MEDIA<br><br></a></div>\n            \n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn align-center\"><a class=\"btn btn-sm btn-warning\" href=\"mailto:lhcp.2019@cern.ch\" data-app-placeholder=\"Type Text\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\">&nbsp;&nbsp;</span>CONTACT &nbsp;&nbsp;</a></div>\n        </div>\n    </amp-sidebar>\n    <button on=\"tap:sidebar.toggle\" class=\"ampstart-btn hamburger\" mbr-class=\"{'sticky-but':sticky}\">\n        <span></span>\n        <span></span>\n        <span></span>\n        <span></span>\n    </button>\n</section>",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"amp-main,amp-sidebar\" global=\"\" once=\"menu\" always-top=\"\" position-absolute=\"\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Mostrar Logo\" name=\"showLogo\" checked=\"\">\n        <input type=\"range\" title=\"Altura Logo\" inline=\"\" name=\"logoHeight\" min=\"55\" max=\"120\" value=\"113\" step=\"1\">\n        <input type=\"range\" title=\"Ancho Logo\" inline=\"\" name=\"logoWidth\" min=\"55\" max=\"120\" value=\"76\" step=\"1\">\n\n        <input type=\"checkbox\" title=\"Mostrar Marca\" name=\"showBrand\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Enlaces\" name=\"showLinks\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Botón(es)\" name=\"showButtons\" checked=\"\">\n        <input type=\"checkbox\" title=\"Fijar Menú\" name=\"sticky\" checked=\"\">\n        <select title=\"Lado de la barra lateral\" name=\"sidebarSide\">\n            <option value=\"left\">Izquierda</option>\n            <option value=\"right\" selected=\"\">Derecha</option>\n        </select>\n        <input type=\"color\" title=\"Color de Fondo\" name=\"menuBgColor\" value=\"#197bc6\">\n        <input type=\"color\" title=\"Color Menú &quot;Hamburguesa&quot;\" name=\"hamburgerColor\" value=\"#197bc6\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <nav class=\"headerbar\" mbr-class=\"{'sticky-nav':sticky}\">\n      <div class=\"brand\">\n          <span mbr-if=\"showLogo\" class=\"brand-logo\">\n              <amp-img src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" layout=\"responsive\" width=\"76.69014084507042\" height=\"99\" alt=\"Mobirise\">\n                  <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" alt=\"Mobirise\" title=\"\">\n              </amp-img>\n          </span>\n          <p mbr-text=\"\" mbr-theme-style=\"display-2\" mbr-if=\"showBrand\" class=\"brand-name mbr-fonts-style\" data-app-selector=\".brand-name\"><b><i>&nbsp; &nbsp; <a href=\"index.html\">LHCP 2019 </a><a href=\"index.html\">&nbsp;</a><a href=\"index.html\">&nbsp;</a></i></b></p>\n      </div>\n    </nav>\n    <amp-sidebar id=\"sidebar\" layout=\"nodisplay\" side=\"{{sidebarSide}}\">\n        <div class=\"builder-sidebar\" id=\"builder-sidebar\">\n            <button on=\"tap:sidebar.close\" class=\"close-sidebar\">\n                <span></span>\n                <span></span>\n            </button>\n\n            <div mbr-menu=\"\" class=\"sidebar mbr-white\" mbr-theme-style=\"display-4\" mbr-if=\"showLinks\"><a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">HOME</a> <a class=\"text-white\" href=\"page4.html\" data-app-placeholder=\"Type Text\">REGISTRATION</a> <a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">PROCEEDINGS</a> <a class=\"text-white\" href=\"https://indico.cern.ch/event/687651/\" data-app-placeholder=\"Type Text\">PROGRAMME</a> <a class=\"text-white\" href=\"assets/files/POSTERLHCP19_NEW.pdf\" data-app-placeholder=\"Type Text\">POSTER</a> <a class=\"text-white\" href=\"page1.html\" data-app-placeholder=\"Type Text\">SPONSORS</a> <a class=\"text-white\" href=\"page3.html\" data-app-placeholder=\"Type Text\">PREVIOUS EDITIONS</a>\n              <a class=\"text-white\" href=\"#bottom\" data-app-placeholder=\"Type Text\">SOCIAL MEDIA<br><br></a></div>\n            \n            <div mbr-if=\"showButtons\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn align-center\"><a class=\"btn btn-sm btn-warning\" href=\"mailto:lhcp.2019@cern.ch\" data-app-placeholder=\"Type Text\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\">&nbsp;&nbsp;</span>CONTACT &nbsp;&nbsp;</a></div>\n        </div>\n    </amp-sidebar>\n    <button on=\"tap:sidebar.toggle\" class=\"ampstart-btn hamburger\" mbr-class=\"{'sticky-but':sticky}\">\n        <span></span>\n        <span></span>\n        <span></span>\n        <span></span>\n    </button>\n</section>",
           "_cid": "qTij3msXo5",
-          "_anchor": "menu1-v",
+          "_anchor": "menu1-s",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "& when not (@fullScreen)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            }
-          },
-          "_name": "header1",
-          "_customHTML": "<section class=\"header1\" group=\"Headers\" plugins=\"amp-main\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/26jul2013-15-1500x1000.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#0dd1ff\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <h1 class=\"mbr-section-title mbr-fonts-style align-right mbr-bold mbr-white\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\">\n            <b>Mobirise AMP</b>\n        </h1>\n        <h3 class=\"mbr-section-subtitle mbr-fonts-style align-right mbr-white mbr-light\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-subtitle\" mbr-if=\"showSubTitle\">\n            Accelerate your site with AMP\n        </h3>\n        <p class=\"mbr-fonts-style mbr-text align-right\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-if=\"showText\">\n            Full width intro with adjustable height, background image. Click any text to edit or style it.<br><br><br><br><br><br><br><br><br>\n        </p>\n        <div class=\"mbr-section-btn align-right\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-white-outline\" href=\"http://www.complejocultural.buap.mx\" data-app-placeholder=\"Type Text\">\n                MEET THE VENUE (CCU)</a></div>\n    </div>\n\n</section>",
-          "_cid": "r76gq8RE0M",
-          "_anchor": "header1-21",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
           "_params": {}
         },
         {
@@ -1672,14 +1343,13 @@
             "background-color": "@bgColor",
             ".mbr-text": {
               "padding": "2rem 0",
-              "color": "#ffffff",
               "text-align": "left"
             }
           },
-          "_name": "content4",
-          "_customHTML": "<section class=\"content4 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" mbr-text>At <a href=\"http://www.complejocultural.buap.mx\">Complejo Cultural Universitario</a> you will find the Secretariat Office and 3 restaurants to have lunch during the conference. <br>There is also excellent Internet WIFI with superior bandwidth and technical support available, sponsored by the University.</div>\n    </div>\n</section>",
-          "_cid": "qU1P7lKh36",
-          "_anchor": "content4-1i",
+          "_name": "content16",
+          "_customHTML": "<section class=\"content16 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-white mbr-bold\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" mbr-text>\n            <span style=\"font-weight: normal;\"><br></span><br>ACCOMODATION<br><br><span style=\"font-weight: normal;\">Participants are kindly invited to book their room directly. Early booking is highly recommended. A limited number of rooms have been blocked in the hotels listed below. They are located very near in walking distance from the venue. When booking, inform the hotel that you will be attending the </span><i>LHCP 2019 conference</i><span style=\"font-weight: normal;\">. </span><br><br><span style=\"font-weight: normal;\">Bookings are made on a first-come first-served basis. After the expiration date, the availability of rooms is no longer guaranteed. The rates below have been negotiated with the hotels, but you may want to check whether online booking is more convenient at a given moment. Given ranges refer to different types of room.&nbsp;</span><span style=\"font-weight: normal;\">In case of any problem, please </span><a href=\"mailto:lhcp.2019@cern.ch\"><b>contact </b></a><span style=\"font-weight: normal;\">the local organisers at </span>lhcp.2019@cern.ch</div>\n    </div>\n</section>",
+          "_cid": "r76hJad75f",
+          "_anchor": "content16-22",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -1696,308 +1366,41 @@
               "background-image": "url(@bg-value)"
             },
             ".card": {
-              "margin-bottom": "15px",
+              "margin-bottom": "20px",
               "position": "relative",
-              "display": "-webkit-flex",
+              "display": "flex",
               "-ms-flex-direction": "column",
               "flex-direction": "column",
+              "min-width": "0",
               "word-wrap": "break-word",
-              "-webkit-flex-direction": "column",
-              "@media (max-width: 767px)": {
-                "margin-bottom": "30px"
-              },
-              ".card-wrapper": {
-                "position": "relative",
-                "background-color": "@cardBg",
-                "padding": "1rem",
-                "margin-bottom": "1rem",
-                "&:before": {
-                  "transform": "rotate(45deg)",
-                  "width": "14px",
-                  "height": "14px",
-                  "background-color": "@cardBg",
-                  "bottom": "-7px",
-                  "content": "\"\"",
-                  "display": "block",
-                  "left": "50px",
-                  "position": "absolute",
-                  "-webkit-transform": "rotate(45deg)"
-                }
-              },
-              ".signature": {
-                "padding": "0 1rem",
-                ".author-name": {
-                  "padding": ".5rem 0"
-                }
-              }
-            },
-            ".mbr-section-title": {
-              "padding-bottom": "2rem"
-            },
-            "@media (max-width: 767px)": {
-              ".author-name, .author-title": {
-                "text-align": "left"
-              }
-            }
-          },
-          "_name": "testimonials2",
-          "_customHTML": "<section class=\"testimonials2 mbr-section\" group=\"Testimonials & Info\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Author Name\" name=\"showAuthorName\">\n        <input type=\"checkbox\" title=\"Show Author Title\" name=\"showAuthorTitle\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\" selected>1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n        <input type=\"color\" title=\"Card BG Color\" name=\"cardBg\" value=\"#232323\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/auditorio-1080x608.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#000000\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-12\" mbr-if=\"showTitle\">\n                <h2 class=\"mbr-section-title mbr-fonts-style align-center mbr-white mbr-bold\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">MAIN CONFERENCE ROOM</h2>\n            </div>\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount >= 3}\">\n                <div class=\"card-wrapper\">\n                    <p class=\"mbr-text mbr-fonts-style align-left mbr-white\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">Capacity 700 seats <br><br>PARALLEL CONFERENCE ROOMS <br>- 4 ROOMS (Capacity: 100 seats) <br>- 4 ROOMS (Capacity: 60 seats) &nbsp;<br></p>\n                </div>\n                <div class=\"signature\" mbr-if=\"showAuthorTitle || showAuthorName\">\n                    <div class=\"author-name mbr-fonts-style align-left mbr-bold mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorName\" data-app-selector=\".author-name\">MAIN CONFERENCE ROOM</div>\n                    <div class=\"author-title mbr-fonts-style align-left mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorTitle\" data-app-selector=\".author-title\"><div><br></div></div>\n                </div>\n            </div>\n            \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount >= 3}\" mbr-if=\"cardsAmount > 1\">\n                <div class=\"card-wrapper\">\n                    <p class=\"mbr-text mbr-fonts-style align-left mbr-white\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                        <i>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore incidunt molestias, vitae recusandae error ipsam distinctio, ipsum. Quasi optio repellat aliquid odio obcaecati amet odit? Laboriosam, quibusdam autem fugit accusantium!</i>\n                    </p>\n                </div>\n                <div class=\"signature\" mbr-if=\"showAuthorTitle || showAuthorName\">\n                    <div class=\"author-name mbr-fonts-style align-left mbr-bold mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorName\" data-app-selector=\".author-name\">\n                        John Smith\n                    </div>\n                    <div class=\"author-title mbr-fonts-style align-left mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorTitle\" data-app-selector=\".author-title\">\n                        User\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount >= 3}\" mbr-if=\"cardsAmount > 2\">\n                <div class=\"card-wrapper\">\n                    <p class=\"mbr-text mbr-fonts-style align-left mbr-white\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                        <i>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore incidunt molestias, vitae recusandae error ipsam distinctio, ipsum. Quasi optio repellat aliquid odio obcaecati amet odit? Laboriosam, quibusdam autem fugit accusantium!</i>\n                    </p>\n                </div>\n                <div class=\"signature\" mbr-if=\"showAuthorTitle || showAuthorName\">\n                    <div class=\"author-name mbr-fonts-style align-left mbr-bold mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorName\" data-app-selector=\".author-name\">\n                        John Smith\n                    </div>\n                    <div class=\"author-title mbr-fonts-style align-left mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorTitle\" data-app-selector=\".author-title\">\n                        User\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount >= 3}\" mbr-if=\"cardsAmount > 3\">\n                <div class=\"card-wrapper\">\n                    <p class=\"mbr-text mbr-fonts-style align-left mbr-white\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                        <i>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore incidunt molestias, vitae recusandae error ipsam distinctio, ipsum. Quasi optio repellat aliquid odio obcaecati amet odit? Laboriosam, quibusdam autem fugit accusantium!</i>\n                    </p>\n                </div>\n                <div class=\"signature\" mbr-if=\"showAuthorTitle || showAuthorName\">\n                    <div class=\"author-name mbr-fonts-style align-left mbr-bold mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorName\" data-app-selector=\".author-name\">\n                        John Smith\n                    </div>\n                    <div class=\"author-title mbr-fonts-style align-left mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorTitle\" data-app-selector=\".author-title\">\n                        User\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount >= 3}\" mbr-if=\"cardsAmount > 4\">\n                <div class=\"card-wrapper\">\n                    <p class=\"mbr-text mbr-fonts-style align-left mbr-white\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                        <i>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore incidunt molestias, vitae recusandae error ipsam distinctio, ipsum. Quasi optio repellat aliquid odio obcaecati amet odit? Laboriosam, quibusdam autem fugit accusantium!</i>\n                    </p>\n                </div>\n                <div class=\"signature\" mbr-if=\"showAuthorTitle || showAuthorName\">\n                    <div class=\"author-name mbr-fonts-style align-left mbr-bold mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorName\" data-app-selector=\".author-name\">\n                        John Smith\n                    </div>\n                    <div class=\"author-title mbr-fonts-style align-left mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorTitle\" data-app-selector=\".author-title\">\n                        User\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount >= 3}\" mbr-if=\"cardsAmount > 5\">\n                <div class=\"card-wrapper\">\n                    <p class=\"mbr-text mbr-fonts-style align-left mbr-white\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                        <i>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore incidunt molestias, vitae recusandae error ipsam distinctio, ipsum. Quasi optio repellat aliquid odio obcaecati amet odit? Laboriosam, quibusdam autem fugit accusantium!</i>\n                    </p>\n                </div>\n                <div class=\"signature\" mbr-if=\"showAuthorTitle || showAuthorName\">\n                    <div class=\"author-name mbr-fonts-style align-left mbr-bold mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorName\" data-app-selector=\".author-name\">\n                        John Smith\n                    </div>\n                    <div class=\"author-title mbr-fonts-style align-left mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorTitle\" data-app-selector=\".author-title\">\n                        User\n                    </div>\n                </div>\n            </div>\n            \n        </div>\n    </div>\n</section>",
-          "_cid": "r76tW2KPfc",
-          "_anchor": "testimonials2-24",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-row": {
-              "margin-left": "0",
-              "margin-right": "0"
-            },
-            ".mbr-section-title": {
-              "padding-bottom": "3rem"
-            },
-            ".google-map": {
-              "height": "25rem",
-              "position": "relative",
+              "background-clip": "border-box",
+              "border-radius": ".25rem",
               "width": "100%",
-              "iframe": {
-                "height": "100%",
-                "width": "100%"
-              },
-              "[data-state-details]": {
-                "color": "#6b6763",
-                "font-family": "Montserrat",
-                "height": "1.5em",
-                "margin-top": "-0.75em",
-                "padding-left": "1.25rem",
-                "padding-right": "1.25rem",
-                "position": "absolute",
-                "text-align": "center",
-                "top": "50%",
-                "width": "100%"
-              },
-              "&[data-state]": {
-                "background": "#e9e5dc"
-              },
-              "&[data-state=\"loading\"]": {
-                "[data-state-details]": {
-                  "display": "none"
-                }
-              }
+              "min-height": "1px"
             },
-            ".map-placeholder": {
-              "display": "none"
-            },
-            "h4": {
-              "padding-top": "5rem",
-              "color": "#767676",
-              "text-align": "center"
-            }
-          },
-          "_name": "map1",
-          "_customHTML": "<section class=\"map\" group=\"Maps\" plugins=\"amp-main,amp-iframe\">\n\n    <mbr-parameters>\n    <!-- Block of parameters for component -->\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"ChIJ71F1QELHz4URlIYr5rM93JM\" value=\"Complejo Cultural Universitario BUAP, Via Atlixcayotl 2299, Angelópolis, Corredor Comercial Desarrollo Atlixcayotl, 72810 Puebla, Pue.\">\n    <!-- End block of parameters -->\n    </mbr-parameters>\n    <div class=\"mbr-row mbr-justify-content-center\">\n        <div class=\"map-title mbr-col-sm-12 mbr-col-md-12 align-center\">\n            <h2 class=\"mbr-section-title mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title, .map-title\">\n                Full Width Map\n            </h2>\n        </div>\n        <div class=\"google-map\" mbr-map=\"googleMap\"></div>\n        <div class=\"map-placeholder mobirise-loader\">\n            <div placeholder class=\"placeholder\"></div>\n        </div>\n    </div>\n</section>",
-          "_cid": "r76HkIVn65",
-          "_anchor": "map1-26",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        }
-      ]
-    },
-    "page7.html": {
-      "settings": {
-        "title": "COMMITTEES",
-        "order": 4
-      },
-      "components": [
-        {
-          "_styles": {
-            "amp-sidebar": {
-              "min-width": "260px!important",
-              "z-index": "1050!important",
-              "background-color": "@menuBgColor"
-            },
-            "amp-sidebar.open:after": {
-              "content": "''",
-              "position": "absolute",
-              "top": "0",
-              "left": "0",
-              "bottom": "0",
-              "right": "0",
-              "background-color": "red"
-            },
-            ".open": {
-              "transform": "translateX(0%) !important",
-              "display": "block!important"
-            },
-            ".builder-sidebar": {
-              "background-color": "@menuBgColor",
-              "position": "relative",
-              "height": "100vh",
-              "z-index": "1030",
-              "padding": "1rem 2rem",
-              "max-width": "20rem"
-            },
-            ".headerbar": {
-              "display": "flex",
-              "flex-direction": "column",
-              "justify-content": "center",
-              "padding": ".5rem 1rem",
-              "min-height": "70px",
-              "align-items": "center",
-              "background": "@menuBgColor",
-              "&.sticky-nav": {
-                "position": "fixed",
-                "z-index": "1000",
-                "width": "100%"
-              }
-            },
-            "button.sticky-but": {
-              "position": "fixed"
-            },
-            ".brand": {
-              "display": "flex",
-              "align-items": "center",
-              "align-self": "flex-start",
-              "padding-right": "30px",
-              "p": {
-                "margin": "0",
-                "padding": "0"
-              }
-            },
-            ".brand-name": {
-              "color": "#197bc6"
-            },
-            ".sidebar": {
-              "padding": "1rem 0",
+            ".card-title": {
               "margin": "0"
             },
-            ".sidebar > li": {
-              "list-style": "none",
-              "display": "flex",
-              "flex-direction": "column"
-            },
-            ".sidebar a": {
-              "display": "block",
-              "text-decoration": "none",
-              "margin-bottom": "10px"
-            },
-            ".close-sidebar": {
-              "width": "30px",
-              "height": "30px",
-              "position": "relative",
-              "cursor": "pointer",
-              "background-color": "transparent",
-              "border": "none",
-              "&:focus": {
-                "outline": "2px auto @primaryColor"
-              },
-              "span": {
-                "position": "absolute",
-                "left": "0",
-                "width": "30px",
-                "height": "2px",
-                "border-right": "5px",
-                "background-color": "@hamburgerColor",
-                "&:nth-child(1)": {
-                  "transform": "rotate(45deg)"
-                },
-                "&:nth-child(2)": {
-                  "transform": "rotate(-45deg)"
-                }
-              }
-            },
-            "@media (min-width: 992px)": {
-              "& .brand-name": {
-                "min-width": "8rem"
-              },
-              "& .builder-sidebar": {
-                "margin-left": "auto",
-                ".sidebar li": {
-                  "flex-direction": "row",
-                  "flex-wrap": "wrap",
-                  "a": {
-                    "padding": ".5rem",
-                    "margin": "0"
-                  }
-                }
-              },
-              "& .builder-overlay": {
-                "display": "none !important"
-              }
-            },
-            ".hamburger": {
-              "position": "absolute",
-              "top": "25px",
-              "& when (@showLogo)": {
-                "@media (min-width: 768px)": {
-                  "top": "calc(0.5rem ~\"+\" @logoHeight ~\"*\" 0.5px ~\"-\" 10px)"
-                }
-              },
-              "right": "20px",
-              "margin-left": "auto",
-              "width": "30px",
-              "height": "20px",
-              "background": "none",
-              "border": "none",
-              "cursor": "pointer",
-              "z-index": "1000",
-              "&:focus": {
-                "outline": "none"
-              },
-              "span": {
-                "position": "absolute",
-                "right": "0",
-                "width": "30px",
-                "height": "2px",
-                "border-right": "5px",
-                "background-color": "@hamburgerColor",
-                "&:nth-child(1)": {
-                  "top": "0",
-                  "transition": "all .2s"
-                },
-                "&:nth-child(2)": {
-                  "top": "8px",
-                  "transition": "all .15s"
-                },
-                "&:nth-child(3)": {
-                  "top": "8px",
-                  "transition": "all .15s"
-                },
-                "&:nth-child(4)": {
-                  "top": "16px",
-                  "transition": "all .2s"
-                }
-              }
+            ".card-box": {
+              "padding-top": "2rem"
             },
             "amp-img": {
-              "height": "~\"@{logoHeight}px\"",
-              "width": "~\"@{logoWidth}px\"",
-              "margin-right": "1rem",
-              "display": "flex",
-              "align-items": "center",
-              "@media (max-width: 768px)": {
-                "max-height": "55px",
-                "max-width": "55px"
-              }
+              "width": "100%"
             },
-            ".brand-name B": {
+            ".mbr-text": {
+              "color": "#ffffff"
+            },
+            ".card-title B": {
               "color": "#ffffff"
             }
           },
-          "_name": "menu1",
-          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"amp-main,amp-sidebar\" global once=\"menu\" always-top position-absolute>\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Mostrar Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Altura Logo\" inline name=\"logoHeight\" min=\"55\" max=\"120\" value=\"113\" step=\"1\">\n        <input type=\"range\" title=\"Ancho Logo\" inline name=\"logoWidth\" min=\"55\" max=\"120\" value=\"76\" step=\"1\">\n\n        <input type=\"checkbox\" title=\"Mostrar Marca\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Enlaces\" name=\"showLinks\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Botón(es)\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Fijar Menú\" name=\"sticky\" checked>\n        <select title=\"Lado de la barra lateral\" name=\"sidebarSide\">\n            <option value=\"left\">Izquierda</option>\n            <option value=\"right\" selected>Derecha</option>\n        </select>\n        <input type=\"color\" title=\"Color de Fondo\" name=\"menuBgColor\" value=\"#232323\">\n        <input type=\"color\" title=\"Color Menú &quot;Hamburguesa&quot;\" name=\"hamburgerColor\" value=\"#197bc6\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <nav class=\"headerbar\" mbr-class=\"{'sticky-nav':sticky}\">\n      <div class=\"brand\">\n          <span mbr-if=\"showLogo\" class=\"brand-logo\">\n              <amp-img src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" layout=\"responsive\" width=\"76.69014084507042\" height=\"99\" alt=\"Mobirise\">\n                  <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" alt=\"Mobirise\" title>\n              </amp-img>\n          </span>\n          <p mbr-text mbr-theme-style=\"display-2\" mbr-if=\"showBrand\" class=\"brand-name mbr-fonts-style\" data-app-selector=\".brand-name\"><b><i>&nbsp; &nbsp; <a href=\"index.html\">LHCP 2019 </a><a href=\"index.html\">&nbsp;</a><a href=\"index.html\">&nbsp;</a></i></b></p>\n      </div>\n    </nav>\n    <amp-sidebar id=\"sidebar\" layout=\"nodisplay\" side=\"{{sidebarSide}}\">\n        <div class=\"builder-sidebar\" id=\"builder-sidebar\">\n            <button on=\"tap:sidebar.close\" class=\"close-sidebar\">\n                <span></span>\n                <span></span>\n            </button>\n\n            <div mbr-menu class=\"sidebar mbr-white\" mbr-theme-style=\"display-4\" mbr-if=\"showLinks\"><a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">HOME</a> <a class=\"text-white\" href=\"page4.html\" data-app-placeholder=\"Type Text\">REGISTRATION</a> <a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">PROCEEDINGS</a> <a class=\"text-white\" href=\"https://indico.cern.ch/event/687651/\" data-app-placeholder=\"Type Text\">PROGRAMME</a> <a class=\"text-white\" href=\"assets/files/POSTERLHCP19_NEW.pdf\" data-app-placeholder=\"Type Text\">POSTER</a> <a class=\"text-white\" href=\"page1.html\" data-app-placeholder=\"Type Text\">SPONSORS</a> <a class=\"text-white\" href=\"page3.html\" data-app-placeholder=\"Type Text\">PREVIOUS EDITIONS</a>\n              <a class=\"text-white\" href=\"#bottom\" data-app-placeholder=\"Type Text\">SOCIAL MEDIA<br><br></a></div>\n            \n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn align-center\"><a class=\"btn btn-sm btn-warning\" href=\"mailto:lhcp.2019@cern.ch\" data-app-placeholder=\"Type Text\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\">&nbsp;&nbsp;</span>CONTACT &nbsp;&nbsp;</a></div>\n        </div>\n    </amp-sidebar>\n    <button on=\"tap:sidebar.toggle\" class=\"ampstart-btn hamburger\" mbr-class=\"{'sticky-but':sticky}\">\n        <span></span>\n        <span></span>\n        <span></span>\n        <span></span>\n    </button>\n</section>",
-          "_cid": "qTij3msXo5",
-          "_anchor": "menu1-10",
+          "_name": "features1",
+          "_customHTML": "<section class=\"features1 mbr-section\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Texto\" name=\"showText\" checked=\"\">\n        <select title=\"Tarjetas\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected=\"\">2</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Imagen de Fondo\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Color de Fondo\" value=\"#232323\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/cra-1080x648.jpg\" layout=\"responsive\" width=\"540\" height=\"324\" alt=\"Mobirise\">\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/cra-1080x648.jpg\" alt=\"Mobirise\" title=\"\">\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style align-left mbr-light\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".card-title\"><b>Camino Real Angelópolis</b></h4>\n                        <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">(5 star) 153 rooms available, $60 per night. Breakfast included. Distance: 3.9 km. away from the Venue and 15 minutes by foot.<br><a href=\"https://www.caminoreal.com/\">Visit website</a></p>\n                    </div>\n                </div>\n            </div>\n            \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-if=\"cardsAmount > 1\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/gfa1-2-500x350.jpg\" layout=\"responsive\" height=\"317\" width=\"539.2268041237113\" alt=\"Mobirise\">\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/gfa1-2-500x350.jpg\" alt=\"Mobirise\" title=\"\">\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style align-left mbr-light\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".card-title\"><b>Grand Fiesta Americana Angelópolis&nbsp;</b></h4>\n                        <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            (4 star) 80 rooms available, $60 per night. Breaksfast included. Distance: 4.6 km away from the Venue and 15 minutes by foot.<br><a href=\"http://www.grandfiestamericana.com/Puebla\">Visit website</a><br>\n                        </p>\n                    </div>\n                </div>\n            </div>\n            \n        </div>\n    </div>\n</section>",
+          "_cid": "qToAahyGCV",
+          "_anchor": "features1-t",
           "_protectedParams": [],
-          "_global": true,
-          "_once": "menu",
+          "_global": false,
+          "_once": false,
           "_params": {}
         },
         {
@@ -2010,32 +1413,39 @@
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)"
             },
-            ".mbr-row": {
-              "margin": "0 15px"
-            },
             ".card": {
-              "@media (max-width: 991px)": {
-                "margin-bottom": "20px"
-              }
+              "margin-bottom": "20px",
+              "position": "relative",
+              "display": "flex",
+              "-ms-flex-direction": "column",
+              "flex-direction": "column",
+              "min-width": "0",
+              "word-wrap": "break-word",
+              "background-clip": "border-box",
+              "border-radius": ".25rem",
+              "width": "100%",
+              "min-height": "1px"
             },
-            ".mbr-section-title": {
-              "margin": "0",
-              "padding-bottom": "1rem",
-              "text-align": "left"
+            ".card-title": {
+              "margin": "0"
+            },
+            ".card-box": {
+              "padding-top": "2rem"
+            },
+            "amp-img": {
+              "width": "100%"
             },
             ".mbr-text": {
-              "margin": "0",
-              "text-align": "left",
               "color": "#ffffff"
             },
-            ".mbr-section-title B": {
+            ".card-title B": {
               "color": "#ffffff"
             }
           },
-          "_name": "content15",
-          "_customHTML": "<section class=\"content15 mbr-section\" group=\"Articles\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"9\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"5\">\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Texto\" name=\"showText\" checked>\n        <select title=\"Tarjetas\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n            <option value=\"4\">4</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Imagen de Fondo\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Color de Fondo\" value=\"#232323\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount <= 3,\n                             'mbr-col-lg-3': cardsAmount > 3}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>\n                    LOCAL ORGANIZING</b></h3>\n                <p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">Alejandro Ayala (UNAM)\n<br>Irais Bautista (BUAP)\n<br>Salvador Carrillo (IBERO)\n<br>Heriberto Castilla (CINVESTAV)\n<br>Eleazar Cuautle Flores (UNAM)\n<br>Eduard de la Cruz Burelo (CINVESTAV)\n<br>Lorenzo Díaz Cruz (BUAP)\n<br>Arturo Fernández Téllez (BUAP)\n<br>Ivan Heredia (CINVESTAV)\n<br>Antonio Ortiz Velázquez (UNAM)\n<br>Guy Paic (UNAM)\n<br>Isabel Pedraza Morales (BUAP)\n<br>Pablo Roig (CINVESTAV)\n<br>Mario Rodríguez Cahuantzi (BUAP)\n<br>María Elena Tejeda Yeomanns (UNISON)<br><br><br><b>TECHNICAL SECRETARIAT </b><br><br>Dawn Hudson (CERN)\n<br>Connie Potter (CERN)<br><br><br><b>SCIENTIFIC SECRETARIES</b>&nbsp;<br>Mario Iván Martínez Hernández (BUAP, Mexico)\n<br>Pablo Roig (CINVESTAV, Mexico)<br><br></p>             \n            </div>\n            \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount <= 3,\n                             'mbr-col-lg-3': cardsAmount > 3}\" mbr-if=\"cardsAmount > 1\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>\n                    INTERNATIONAL ADVISORY</b></h3>\n                <p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">Charalampos Anastasiou (ETH, Zurich)<br>Isabelle Wingerter-Seez (LAPP-Annecy)<br>Arturo Menchaca Rocha<br>Rohini Madhusudan Godbole (CENTRE FOR HIGH ENERGY PHYSICS, INDIAN INSTITUTE, India)<br>Torsten&nbsp;Åkesson (Lund Univ.)<br>Federico Antinori (INFN, Padua)<br>Pietro Antonioli (INFN, Bologna)<br>Gregorio Bernardi (LPNHE-Paris)<br>Florencia Canelli (Zurich Univ.)<br>Roberto Carlin<br>Heriberto Castilla Valdez (CINVESTAV, Mexico)<br>Zaida Conesa del Valle (IPN, Orsay)<br>Ignacio de Bediaga Hickman (CENTRO BRASILEIRO DE PESQUISAS FÍSICAS, Brasil)<br>Eckhard Elsen (CERN)<br>Paolo Giacomelli (INFN, Bologna)<br>Beate Heinemann (DESY, Univ. of Freiburg)<br>Karl Jakobs (Univ. of Freiburg)<br>Jin Shan<br>Victor Kim (PNPI, Gatchina)<br>Leif Lonnblad (Lund Univ.)<br>Martha Losada (Univ. Antonio Narino, Colombia)<br>Alejandro Nisati (INFN, Roma-1)<br>Giovanni Passaleva (INFN, Firenze)<br>Monica Pepe Altarelli (CERN)<br>Laura Reina (Florida State Univ.)<br>Paris Sphicas (CERN, Athens)<br>Katsuo Tokushuku (KEK, Tsukuba)<br>Bolek Wyslouch (MIT, USA)<br>Haijun Yang (SJTU, Shangai)<br>Arnulfo Zepeda (CINVESTAV, Mexico)<br><br><br>&nbsp;<br></p> \n            </div>\n        \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount <= 3,\n                             'mbr-col-lg-3': cardsAmount > 3}\" mbr-if=\"cardsAmount > 2\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>\n                    CONFERENCE CHAIRS</b></h3>\n                <p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">A. Nisati (INFN)\n<br>J. Olsen (PRINCETON UNIV.)\n<br>A. Fernández Téllez (BUAP)<br>\nI. Bautista (BUAP)\n<br>B. Mansoulie INTERNATIONAL COCHAIR\n<br>G. Mitselmakher IAC DEPUTY CHAIR&nbsp;<br></p>\n            </div>\n        \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount <= 3,\n                             'mbr-col-lg-3': cardsAmount > 3}\" mbr-if=\"cardsAmount > 3\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                    Resultados\n                </h3>\n                <p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus aperiam\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qTtgf4gz3Q",
-          "_anchor": "content15-11",
+          "_name": "features1",
+          "_customHTML": "<section class=\"features1 mbr-section\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline=\"\" title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Texto\" name=\"showText\" checked=\"\">\n        <select title=\"Tarjetas\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected=\"\">2</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Imagen de Fondo\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Color de Fondo\" value=\"#232323\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/hotel-hi-640x426.jpg\" layout=\"responsive\" width=\"539.3427230046948\" height=\"359\" alt=\"Mobirise\">\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/hotel-hi-640x426.jpg\" alt=\"Mobirise\" title=\"\">\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style align-left mbr-light\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".card-title\"><b>Holiday Inn Express &amp; Suites Puebla</b></h4>\n                        <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">(3 star) 148 rooms available, $50 per night. Breakfast included. Distance: 3 km. away from the Venue and 6 minutes by car. <a href=\"http://www.hiexangelopolis.com.mx/\">Visit website</a></p>\n                    </div>\n                </div>\n            </div>\n            \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-if=\"cardsAmount > 1\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/colonial-2-1000x750.jpg\" layout=\"responsive\" height=\"353\" width=\"540.1063174114022\" alt=\"Mobirise\">\n                            <a href=\"http://www.colonial.com.mx\"><img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/colonial-2-1000x750.jpg\" alt=\"Mobirise\" title=\"\"></a>\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style align-left mbr-light\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".card-title\"><b>Hotel Colonial&nbsp;</b></h4>\n                        <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">(3 star) 66 rooms available, $45 per night. Breaksfast included. Distance: 6.8 km away from the Venue and 17 minutes by car. <a href=\"http://www.colonial.com.mx\">Visit website</a>&nbsp;<br></p>\n                    </div>\n                </div>\n            </div>\n            \n        </div>\n    </div>\n</section>",
+          "_cid": "qToAc4flZX",
+          "_anchor": "features1-u",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -2043,9 +1453,9 @@
         }
       ]
     },
-    "page8.html": {
+    "page6.html": {
       "settings": {
-        "title": "TRAVEL &amp; CULTURE",
+        "title": "VENUE",
         "order": 3
       },
       "components": [
@@ -2225,7 +1635,597 @@
             }
           },
           "_name": "menu1",
-          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"amp-main,amp-sidebar\" global once=\"menu\" always-top position-absolute>\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Mostrar Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Altura Logo\" inline name=\"logoHeight\" min=\"55\" max=\"120\" value=\"113\" step=\"1\">\n        <input type=\"range\" title=\"Ancho Logo\" inline name=\"logoWidth\" min=\"55\" max=\"120\" value=\"76\" step=\"1\">\n\n        <input type=\"checkbox\" title=\"Mostrar Marca\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Enlaces\" name=\"showLinks\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Botón(es)\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Fijar Menú\" name=\"sticky\" checked>\n        <select title=\"Lado de la barra lateral\" name=\"sidebarSide\">\n            <option value=\"left\">Izquierda</option>\n            <option value=\"right\" selected>Derecha</option>\n        </select>\n        <input type=\"color\" title=\"Color de Fondo\" name=\"menuBgColor\" value=\"#232323\">\n        <input type=\"color\" title=\"Color Menú &quot;Hamburguesa&quot;\" name=\"hamburgerColor\" value=\"#197bc6\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <nav class=\"headerbar\" mbr-class=\"{'sticky-nav':sticky}\">\n      <div class=\"brand\">\n          <span mbr-if=\"showLogo\" class=\"brand-logo\">\n              <amp-img src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" layout=\"responsive\" width=\"76.69014084507042\" height=\"99\" alt=\"Mobirise\">\n                  <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" alt=\"Mobirise\" title>\n              </amp-img>\n          </span>\n          <p mbr-text mbr-theme-style=\"display-2\" mbr-if=\"showBrand\" class=\"brand-name mbr-fonts-style\" data-app-selector=\".brand-name\"><b><i>&nbsp; &nbsp; <a href=\"index.html\">LHCP 2019 </a><a href=\"index.html\">&nbsp;</a><a href=\"index.html\">&nbsp;</a></i></b></p>\n      </div>\n    </nav>\n    <amp-sidebar id=\"sidebar\" layout=\"nodisplay\" side=\"{{sidebarSide}}\">\n        <div class=\"builder-sidebar\" id=\"builder-sidebar\">\n            <button on=\"tap:sidebar.close\" class=\"close-sidebar\">\n                <span></span>\n                <span></span>\n            </button>\n\n            <div mbr-menu class=\"sidebar mbr-white\" mbr-theme-style=\"display-4\" mbr-if=\"showLinks\"><a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">HOME</a> <a class=\"text-white\" href=\"page4.html\" data-app-placeholder=\"Type Text\">REGISTRATION</a> <a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">PROCEEDINGS</a> <a class=\"text-white\" href=\"https://indico.cern.ch/event/687651/\" data-app-placeholder=\"Type Text\">PROGRAMME</a> <a class=\"text-white\" href=\"assets/files/POSTERLHCP19_NEW.pdf\" data-app-placeholder=\"Type Text\">POSTER</a> <a class=\"text-white\" href=\"page1.html\" data-app-placeholder=\"Type Text\">SPONSORS</a> <a class=\"text-white\" href=\"page3.html\" data-app-placeholder=\"Type Text\">PREVIOUS EDITIONS</a>\n              <a class=\"text-white\" href=\"#bottom\" data-app-placeholder=\"Type Text\">SOCIAL MEDIA<br><br></a></div>\n            \n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn align-center\"><a class=\"btn btn-sm btn-warning\" href=\"mailto:lhcp.2019@cern.ch\" data-app-placeholder=\"Type Text\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\">&nbsp;&nbsp;</span>CONTACT &nbsp;&nbsp;</a></div>\n        </div>\n    </amp-sidebar>\n    <button on=\"tap:sidebar.toggle\" class=\"ampstart-btn hamburger\" mbr-class=\"{'sticky-but':sticky}\">\n        <span></span>\n        <span></span>\n        <span></span>\n        <span></span>\n    </button>\n</section>",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"amp-main,amp-sidebar\" global=\"\" once=\"menu\" always-top=\"\" position-absolute=\"\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Mostrar Logo\" name=\"showLogo\" checked=\"\">\n        <input type=\"range\" title=\"Altura Logo\" inline=\"\" name=\"logoHeight\" min=\"55\" max=\"120\" value=\"113\" step=\"1\">\n        <input type=\"range\" title=\"Ancho Logo\" inline=\"\" name=\"logoWidth\" min=\"55\" max=\"120\" value=\"76\" step=\"1\">\n\n        <input type=\"checkbox\" title=\"Mostrar Marca\" name=\"showBrand\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Enlaces\" name=\"showLinks\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Botón(es)\" name=\"showButtons\" checked=\"\">\n        <input type=\"checkbox\" title=\"Fijar Menú\" name=\"sticky\" checked=\"\">\n        <select title=\"Lado de la barra lateral\" name=\"sidebarSide\">\n            <option value=\"left\">Izquierda</option>\n            <option value=\"right\" selected=\"\">Derecha</option>\n        </select>\n        <input type=\"color\" title=\"Color de Fondo\" name=\"menuBgColor\" value=\"#232323\">\n        <input type=\"color\" title=\"Color Menú &quot;Hamburguesa&quot;\" name=\"hamburgerColor\" value=\"#197bc6\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <nav class=\"headerbar\" mbr-class=\"{'sticky-nav':sticky}\">\n      <div class=\"brand\">\n          <span mbr-if=\"showLogo\" class=\"brand-logo\">\n              <amp-img src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" layout=\"responsive\" width=\"76.69014084507042\" height=\"99\" alt=\"Mobirise\">\n                  <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" alt=\"Mobirise\" title=\"\">\n              </amp-img>\n          </span>\n          <p mbr-text=\"\" mbr-theme-style=\"display-2\" mbr-if=\"showBrand\" class=\"brand-name mbr-fonts-style\" data-app-selector=\".brand-name\"><b><i>&nbsp; &nbsp; <a href=\"index.html\">LHCP 2019 </a><a href=\"index.html\">&nbsp;</a><a href=\"index.html\">&nbsp;</a></i></b></p>\n      </div>\n    </nav>\n    <amp-sidebar id=\"sidebar\" layout=\"nodisplay\" side=\"{{sidebarSide}}\">\n        <div class=\"builder-sidebar\" id=\"builder-sidebar\">\n            <button on=\"tap:sidebar.close\" class=\"close-sidebar\">\n                <span></span>\n                <span></span>\n            </button>\n\n            <div mbr-menu=\"\" class=\"sidebar mbr-white\" mbr-theme-style=\"display-4\" mbr-if=\"showLinks\"><a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">HOME</a> <a class=\"text-white\" href=\"page4.html\" data-app-placeholder=\"Type Text\">REGISTRATION</a> <a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">PROCEEDINGS</a> <a class=\"text-white\" href=\"https://indico.cern.ch/event/687651/\" data-app-placeholder=\"Type Text\">PROGRAMME</a> <a class=\"text-white\" href=\"assets/files/POSTERLHCP19_NEW.pdf\" data-app-placeholder=\"Type Text\">POSTER</a> <a class=\"text-white\" href=\"page1.html\" data-app-placeholder=\"Type Text\">SPONSORS</a> <a class=\"text-white\" href=\"page3.html\" data-app-placeholder=\"Type Text\">PREVIOUS EDITIONS</a>\n              <a class=\"text-white\" href=\"#bottom\" data-app-placeholder=\"Type Text\">SOCIAL MEDIA<br><br></a></div>\n            \n            <div mbr-if=\"showButtons\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn align-center\"><a class=\"btn btn-sm btn-warning\" href=\"mailto:lhcp.2019@cern.ch\" data-app-placeholder=\"Type Text\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\">&nbsp;&nbsp;</span>CONTACT &nbsp;&nbsp;</a></div>\n        </div>\n    </amp-sidebar>\n    <button on=\"tap:sidebar.toggle\" class=\"ampstart-btn hamburger\" mbr-class=\"{'sticky-but':sticky}\">\n        <span></span>\n        <span></span>\n        <span></span>\n        <span></span>\n    </button>\n</section>",
+          "_cid": "qTij3msXo5",
+          "_anchor": "menu1-v",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            }
+          },
+          "_name": "header1",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" plugins=\"amp-main\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/26jul2013-15-1500x1000.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#0dd1ff\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <h1 class=\"mbr-section-title mbr-fonts-style align-right mbr-bold mbr-white\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\">\n            <b>Mobirise AMP</b>\n        </h1>\n        <h3 class=\"mbr-section-subtitle mbr-fonts-style align-right mbr-white mbr-light\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-subtitle\" mbr-if=\"showSubTitle\">\n            Accelerate your site with AMP\n        </h3>\n        <p class=\"mbr-fonts-style mbr-text align-right\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-if=\"showText\">\n            Full width intro with adjustable height, background image. Click any text to edit or style it.<br><br><br><br><br><br><br><br><br>\n        </p>\n        <div class=\"mbr-section-btn align-right\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-white-outline\" href=\"http://www.complejocultural.buap.mx\" data-app-placeholder=\"Type Text\">\n                MEET THE VENUE (CCU)</a></div>\n    </div>\n\n</section>",
+          "_cid": "r76gq8RE0M",
+          "_anchor": "header1-21",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text": {
+              "padding": "2rem 0",
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"content4 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" mbr-text>At <a href=\"http://www.complejocultural.buap.mx\">Complejo Cultural Universitario</a> you will find the Secretariat Office and 3 restaurants to have lunch during the conference. <br>There is also excellent Internet WIFI with superior bandwidth and technical support available, sponsored by the University.</div>\n    </div>\n</section>",
+          "_cid": "qU1P7lKh36",
+          "_anchor": "content4-1i",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".card": {
+              "margin-bottom": "15px",
+              "position": "relative",
+              "display": "-webkit-flex",
+              "-ms-flex-direction": "column",
+              "flex-direction": "column",
+              "word-wrap": "break-word",
+              "-webkit-flex-direction": "column",
+              "@media (max-width: 767px)": {
+                "margin-bottom": "30px"
+              },
+              ".card-wrapper": {
+                "position": "relative",
+                "background-color": "@cardBg",
+                "padding": "1rem",
+                "margin-bottom": "1rem",
+                "&:before": {
+                  "transform": "rotate(45deg)",
+                  "width": "14px",
+                  "height": "14px",
+                  "background-color": "@cardBg",
+                  "bottom": "-7px",
+                  "content": "\"\"",
+                  "display": "block",
+                  "left": "50px",
+                  "position": "absolute",
+                  "-webkit-transform": "rotate(45deg)"
+                }
+              },
+              ".signature": {
+                "padding": "0 1rem",
+                ".author-name": {
+                  "padding": ".5rem 0"
+                }
+              }
+            },
+            ".mbr-section-title": {
+              "padding-bottom": "2rem"
+            },
+            "@media (max-width: 767px)": {
+              ".author-name, .author-title": {
+                "text-align": "left"
+              }
+            }
+          },
+          "_name": "testimonials2",
+          "_customHTML": "<section class=\"testimonials2 mbr-section\" group=\"Testimonials & Info\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Author Name\" name=\"showAuthorName\">\n        <input type=\"checkbox\" title=\"Show Author Title\" name=\"showAuthorTitle\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\" selected>1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n        <input type=\"color\" title=\"Card BG Color\" name=\"cardBg\" value=\"#232323\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/auditorio-1080x608.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#000000\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-12\" mbr-if=\"showTitle\">\n                <h2 class=\"mbr-section-title mbr-fonts-style align-center mbr-white mbr-bold\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">MAIN CONFERENCE ROOM</h2>\n            </div>\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount >= 3}\">\n                <div class=\"card-wrapper\">\n                    <p class=\"mbr-text mbr-fonts-style align-left mbr-white\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">Capacity 700 seats <br><br>PARALLEL CONFERENCE ROOMS <br>- 4 ROOMS (Capacity: 100 seats) <br>- 4 ROOMS (Capacity: 60 seats) &nbsp;<br></p>\n                </div>\n                <div class=\"signature\" mbr-if=\"showAuthorTitle || showAuthorName\">\n                    <div class=\"author-name mbr-fonts-style align-left mbr-bold mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorName\" data-app-selector=\".author-name\">MAIN CONFERENCE ROOM</div>\n                    <div class=\"author-title mbr-fonts-style align-left mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorTitle\" data-app-selector=\".author-title\"><div><br></div></div>\n                </div>\n            </div>\n            \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount >= 3}\" mbr-if=\"cardsAmount > 1\">\n                <div class=\"card-wrapper\">\n                    <p class=\"mbr-text mbr-fonts-style align-left mbr-white\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                        <i>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore incidunt molestias, vitae recusandae error ipsam distinctio, ipsum. Quasi optio repellat aliquid odio obcaecati amet odit? Laboriosam, quibusdam autem fugit accusantium!</i>\n                    </p>\n                </div>\n                <div class=\"signature\" mbr-if=\"showAuthorTitle || showAuthorName\">\n                    <div class=\"author-name mbr-fonts-style align-left mbr-bold mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorName\" data-app-selector=\".author-name\">\n                        John Smith\n                    </div>\n                    <div class=\"author-title mbr-fonts-style align-left mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorTitle\" data-app-selector=\".author-title\">\n                        User\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount >= 3}\" mbr-if=\"cardsAmount > 2\">\n                <div class=\"card-wrapper\">\n                    <p class=\"mbr-text mbr-fonts-style align-left mbr-white\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                        <i>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore incidunt molestias, vitae recusandae error ipsam distinctio, ipsum. Quasi optio repellat aliquid odio obcaecati amet odit? Laboriosam, quibusdam autem fugit accusantium!</i>\n                    </p>\n                </div>\n                <div class=\"signature\" mbr-if=\"showAuthorTitle || showAuthorName\">\n                    <div class=\"author-name mbr-fonts-style align-left mbr-bold mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorName\" data-app-selector=\".author-name\">\n                        John Smith\n                    </div>\n                    <div class=\"author-title mbr-fonts-style align-left mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorTitle\" data-app-selector=\".author-title\">\n                        User\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount >= 3}\" mbr-if=\"cardsAmount > 3\">\n                <div class=\"card-wrapper\">\n                    <p class=\"mbr-text mbr-fonts-style align-left mbr-white\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                        <i>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore incidunt molestias, vitae recusandae error ipsam distinctio, ipsum. Quasi optio repellat aliquid odio obcaecati amet odit? Laboriosam, quibusdam autem fugit accusantium!</i>\n                    </p>\n                </div>\n                <div class=\"signature\" mbr-if=\"showAuthorTitle || showAuthorName\">\n                    <div class=\"author-name mbr-fonts-style align-left mbr-bold mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorName\" data-app-selector=\".author-name\">\n                        John Smith\n                    </div>\n                    <div class=\"author-title mbr-fonts-style align-left mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorTitle\" data-app-selector=\".author-title\">\n                        User\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount >= 3}\" mbr-if=\"cardsAmount > 4\">\n                <div class=\"card-wrapper\">\n                    <p class=\"mbr-text mbr-fonts-style align-left mbr-white\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                        <i>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore incidunt molestias, vitae recusandae error ipsam distinctio, ipsum. Quasi optio repellat aliquid odio obcaecati amet odit? Laboriosam, quibusdam autem fugit accusantium!</i>\n                    </p>\n                </div>\n                <div class=\"signature\" mbr-if=\"showAuthorTitle || showAuthorName\">\n                    <div class=\"author-name mbr-fonts-style align-left mbr-bold mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorName\" data-app-selector=\".author-name\">\n                        John Smith\n                    </div>\n                    <div class=\"author-title mbr-fonts-style align-left mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorTitle\" data-app-selector=\".author-title\">\n                        User\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount >= 3}\" mbr-if=\"cardsAmount > 5\">\n                <div class=\"card-wrapper\">\n                    <p class=\"mbr-text mbr-fonts-style align-left mbr-white\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                        <i>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore incidunt molestias, vitae recusandae error ipsam distinctio, ipsum. Quasi optio repellat aliquid odio obcaecati amet odit? Laboriosam, quibusdam autem fugit accusantium!</i>\n                    </p>\n                </div>\n                <div class=\"signature\" mbr-if=\"showAuthorTitle || showAuthorName\">\n                    <div class=\"author-name mbr-fonts-style align-left mbr-bold mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorName\" data-app-selector=\".author-name\">\n                        John Smith\n                    </div>\n                    <div class=\"author-title mbr-fonts-style align-left mbr-white\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorTitle\" data-app-selector=\".author-title\">\n                        User\n                    </div>\n                </div>\n            </div>\n            \n        </div>\n    </div>\n</section>",
+          "_cid": "r76tW2KPfc",
+          "_anchor": "testimonials2-24",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-row": {
+              "margin-left": "0",
+              "margin-right": "0"
+            },
+            ".mbr-section-title": {
+              "padding-bottom": "3rem"
+            },
+            ".google-map": {
+              "height": "25rem",
+              "position": "relative",
+              "width": "100%",
+              "iframe": {
+                "height": "100%",
+                "width": "100%"
+              },
+              "[data-state-details]": {
+                "color": "#6b6763",
+                "font-family": "Montserrat",
+                "height": "1.5em",
+                "margin-top": "-0.75em",
+                "padding-left": "1.25rem",
+                "padding-right": "1.25rem",
+                "position": "absolute",
+                "text-align": "center",
+                "top": "50%",
+                "width": "100%"
+              },
+              "&[data-state]": {
+                "background": "#e9e5dc"
+              },
+              "&[data-state=\"loading\"]": {
+                "[data-state-details]": {
+                  "display": "none"
+                }
+              }
+            },
+            ".map-placeholder": {
+              "display": "none"
+            },
+            "h4": {
+              "padding-top": "5rem",
+              "color": "#767676",
+              "text-align": "center"
+            }
+          },
+          "_name": "map1",
+          "_customHTML": "<section class=\"map\" group=\"Maps\" plugins=\"amp-main,amp-iframe\">\n\n    <mbr-parameters>\n    <!-- Block of parameters for component -->\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"ChIJ71F1QELHz4URlIYr5rM93JM\" value=\"Complejo Cultural Universitario BUAP, Via Atlixcayotl 2299, Angelópolis, Corredor Comercial Desarrollo Atlixcayotl, 72810 Puebla, Pue.\">\n    <!-- End block of parameters -->\n    </mbr-parameters>\n    <div class=\"mbr-row mbr-justify-content-center\">\n        <div class=\"map-title mbr-col-sm-12 mbr-col-md-12 align-center\">\n            <h2 class=\"mbr-section-title mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title, .map-title\">\n                Full Width Map\n            </h2>\n        </div>\n        <div class=\"google-map\" mbr-map=\"googleMap\"></div>\n        <div class=\"map-placeholder mobirise-loader\">\n            <div placeholder class=\"placeholder\"></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r76HkIVn65",
+          "_anchor": "map1-26",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "title": "COMMITTEES",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            "amp-sidebar": {
+              "min-width": "260px!important",
+              "z-index": "1050!important",
+              "background-color": "@menuBgColor"
+            },
+            "amp-sidebar.open:after": {
+              "content": "''",
+              "position": "absolute",
+              "top": "0",
+              "left": "0",
+              "bottom": "0",
+              "right": "0",
+              "background-color": "red"
+            },
+            ".open": {
+              "transform": "translateX(0%) !important",
+              "display": "block!important"
+            },
+            ".builder-sidebar": {
+              "background-color": "@menuBgColor",
+              "position": "relative",
+              "height": "100vh",
+              "z-index": "1030",
+              "padding": "1rem 2rem",
+              "max-width": "20rem"
+            },
+            ".headerbar": {
+              "display": "flex",
+              "flex-direction": "column",
+              "justify-content": "center",
+              "padding": ".5rem 1rem",
+              "min-height": "70px",
+              "align-items": "center",
+              "background": "@menuBgColor",
+              "&.sticky-nav": {
+                "position": "fixed",
+                "z-index": "1000",
+                "width": "100%"
+              }
+            },
+            "button.sticky-but": {
+              "position": "fixed"
+            },
+            ".brand": {
+              "display": "flex",
+              "align-items": "center",
+              "align-self": "flex-start",
+              "padding-right": "30px",
+              "p": {
+                "margin": "0",
+                "padding": "0"
+              }
+            },
+            ".brand-name": {
+              "color": "#197bc6"
+            },
+            ".sidebar": {
+              "padding": "1rem 0",
+              "margin": "0"
+            },
+            ".sidebar > li": {
+              "list-style": "none",
+              "display": "flex",
+              "flex-direction": "column"
+            },
+            ".sidebar a": {
+              "display": "block",
+              "text-decoration": "none",
+              "margin-bottom": "10px"
+            },
+            ".close-sidebar": {
+              "width": "30px",
+              "height": "30px",
+              "position": "relative",
+              "cursor": "pointer",
+              "background-color": "transparent",
+              "border": "none",
+              "&:focus": {
+                "outline": "2px auto @primaryColor"
+              },
+              "span": {
+                "position": "absolute",
+                "left": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "transform": "rotate(45deg)"
+                },
+                "&:nth-child(2)": {
+                  "transform": "rotate(-45deg)"
+                }
+              }
+            },
+            "@media (min-width: 992px)": {
+              "& .brand-name": {
+                "min-width": "8rem"
+              },
+              "& .builder-sidebar": {
+                "margin-left": "auto",
+                ".sidebar li": {
+                  "flex-direction": "row",
+                  "flex-wrap": "wrap",
+                  "a": {
+                    "padding": ".5rem",
+                    "margin": "0"
+                  }
+                }
+              },
+              "& .builder-overlay": {
+                "display": "none !important"
+              }
+            },
+            ".hamburger": {
+              "position": "absolute",
+              "top": "25px",
+              "& when (@showLogo)": {
+                "@media (min-width: 768px)": {
+                  "top": "calc(0.5rem ~\"+\" @logoHeight ~\"*\" 0.5px ~\"-\" 10px)"
+                }
+              },
+              "right": "20px",
+              "margin-left": "auto",
+              "width": "30px",
+              "height": "20px",
+              "background": "none",
+              "border": "none",
+              "cursor": "pointer",
+              "z-index": "1000",
+              "&:focus": {
+                "outline": "none"
+              },
+              "span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all .2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all .2s"
+                }
+              }
+            },
+            "amp-img": {
+              "height": "~\"@{logoHeight}px\"",
+              "width": "~\"@{logoWidth}px\"",
+              "margin-right": "1rem",
+              "display": "flex",
+              "align-items": "center",
+              "@media (max-width: 768px)": {
+                "max-height": "55px",
+                "max-width": "55px"
+              }
+            },
+            ".brand-name B": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "menu1",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"amp-main,amp-sidebar\" global=\"\" once=\"menu\" always-top=\"\" position-absolute=\"\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Mostrar Logo\" name=\"showLogo\" checked=\"\">\n        <input type=\"range\" title=\"Altura Logo\" inline=\"\" name=\"logoHeight\" min=\"55\" max=\"120\" value=\"113\" step=\"1\">\n        <input type=\"range\" title=\"Ancho Logo\" inline=\"\" name=\"logoWidth\" min=\"55\" max=\"120\" value=\"76\" step=\"1\">\n\n        <input type=\"checkbox\" title=\"Mostrar Marca\" name=\"showBrand\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Enlaces\" name=\"showLinks\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Botón(es)\" name=\"showButtons\" checked=\"\">\n        <input type=\"checkbox\" title=\"Fijar Menú\" name=\"sticky\" checked=\"\">\n        <select title=\"Lado de la barra lateral\" name=\"sidebarSide\">\n            <option value=\"left\">Izquierda</option>\n            <option value=\"right\" selected=\"\">Derecha</option>\n        </select>\n        <input type=\"color\" title=\"Color de Fondo\" name=\"menuBgColor\" value=\"#197bc6\">\n        <input type=\"color\" title=\"Color Menú &quot;Hamburguesa&quot;\" name=\"hamburgerColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <nav class=\"headerbar\" mbr-class=\"{'sticky-nav':sticky}\">\n      <div class=\"brand\">\n          <span mbr-if=\"showLogo\" class=\"brand-logo\">\n              <amp-img src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" layout=\"responsive\" width=\"76.69014084507042\" height=\"99\" alt=\"Mobirise\">\n                  <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" alt=\"Mobirise\" title=\"\">\n              </amp-img>\n          </span>\n          <p mbr-text=\"\" mbr-theme-style=\"display-2\" mbr-if=\"showBrand\" class=\"brand-name mbr-fonts-style\" data-app-selector=\".brand-name\"><b><i>&nbsp; &nbsp; <a href=\"index.html\">LHCP 2019 </a><a href=\"index.html\">&nbsp;</a><a href=\"index.html\">&nbsp;</a></i></b></p>\n      </div>\n    </nav>\n    <amp-sidebar id=\"sidebar\" layout=\"nodisplay\" side=\"{{sidebarSide}}\">\n        <div class=\"builder-sidebar\" id=\"builder-sidebar\">\n            <button on=\"tap:sidebar.close\" class=\"close-sidebar\">\n                <span></span>\n                <span></span>\n            </button>\n\n            <div mbr-menu=\"\" class=\"sidebar mbr-white\" mbr-theme-style=\"display-4\" mbr-if=\"showLinks\"><a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">HOME</a> <a class=\"text-white\" href=\"page4.html\" data-app-placeholder=\"Type Text\">REGISTRATION</a> <a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">PROCEEDINGS</a> <a class=\"text-white\" href=\"https://indico.cern.ch/event/687651/\" data-app-placeholder=\"Type Text\">PROGRAMME</a> <a class=\"text-white\" href=\"assets/files/POSTERLHCP19_NEW.pdf\" data-app-placeholder=\"Type Text\">POSTER</a> <a class=\"text-white\" href=\"page1.html\" data-app-placeholder=\"Type Text\">SPONSORS</a> <a class=\"text-white\" href=\"page3.html\" data-app-placeholder=\"Type Text\">PREVIOUS EDITIONS</a>\n              <a class=\"text-white\" href=\"#bottom\" data-app-placeholder=\"Type Text\">SOCIAL MEDIA<br><br></a></div>\n            \n            <div mbr-if=\"showButtons\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn align-center\"><a class=\"btn btn-sm btn-warning\" href=\"mailto:lhcp.2019@cern.ch\" data-app-placeholder=\"Type Text\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\">&nbsp;&nbsp;</span>CONTACT &nbsp;&nbsp;</a></div>\n        </div>\n    </amp-sidebar>\n    <button on=\"tap:sidebar.toggle\" class=\"ampstart-btn hamburger\" mbr-class=\"{'sticky-but':sticky}\">\n        <span></span>\n        <span></span>\n        <span></span>\n        <span></span>\n    </button>\n</section>",
+          "_cid": "qTij3msXo5",
+          "_anchor": "menu1-10",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-row": {
+              "margin": "0 15px"
+            },
+            ".card": {
+              "@media (max-width: 991px)": {
+                "margin-bottom": "20px"
+              }
+            },
+            ".mbr-section-title": {
+              "margin": "0",
+              "padding-bottom": "1rem",
+              "text-align": "left"
+            },
+            ".mbr-text": {
+              "margin": "0",
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title B": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "content15",
+          "_customHTML": "<section class=\"content15 mbr-section\" group=\"Articles\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"9\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"5\">\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Texto\" name=\"showText\" checked>\n        <select title=\"Tarjetas\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n            <option value=\"4\">4</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Imagen de Fondo\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Color de Fondo\" value=\"#232323\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount <= 3,\n                             'mbr-col-lg-3': cardsAmount > 3}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>\n                    LOCAL ORGANIZING</b></h3>\n                <p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">Alejandro Ayala (UNAM)\n<br>Irais Bautista (BUAP)\n<br>Salvador Carrillo (IBERO)\n<br>Heriberto Castilla (CINVESTAV)\n<br>Eleazar Cuautle Flores (UNAM)\n<br>Eduard de la Cruz Burelo (CINVESTAV)\n<br>Lorenzo Díaz Cruz (BUAP)\n<br>Arturo Fernández Téllez (BUAP)\n<br>Ivan Heredia (CINVESTAV)\n<br>Antonio Ortiz Velázquez (UNAM)\n<br>Guy Paic (UNAM)\n<br>Isabel Pedraza Morales (BUAP)\n<br>Pablo Roig (CINVESTAV)\n<br>Mario Rodríguez Cahuantzi (BUAP)\n<br>María Elena Tejeda Yeomanns (UNISON)<br><br><br><b>TECHNICAL SECRETARIAT </b><br><br>Dawn Hudson (CERN)\n<br>Connie Potter (CERN)<br><br><br><b>SCIENTIFIC SECRETARIES</b>&nbsp;<br>Mario Iván Martínez Hernández (BUAP, Mexico)\n<br>Pablo Roig (CINVESTAV, Mexico)<br><br></p>             \n            </div>\n            \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount <= 3,\n                             'mbr-col-lg-3': cardsAmount > 3}\" mbr-if=\"cardsAmount > 1\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>\n                    INTERNATIONAL ADVISORY</b></h3>\n                <p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">Charalampos Anastasiou (ETH, Zurich)<br>Isabelle Wingerter-Seez (LAPP-Annecy)<br>Arturo Menchaca Rocha<br>Rohini Madhusudan Godbole (CENTRE FOR HIGH ENERGY PHYSICS, INDIAN INSTITUTE, India)<br>Torsten&nbsp;Åkesson (Lund Univ.)<br>Federico Antinori (INFN, Padua)<br>Pietro Antonioli (INFN, Bologna)<br>Gregorio Bernardi (LPNHE-Paris)<br>Florencia Canelli (Zurich Univ.)<br>Roberto Carlin<br>Heriberto Castilla Valdez (CINVESTAV, Mexico)<br>Zaida Conesa del Valle (IPN, Orsay)<br>Ignacio de Bediaga Hickman (CENTRO BRASILEIRO DE PESQUISAS FÍSICAS, Brasil)<br>Eckhard Elsen (CERN)<br>Paolo Giacomelli (INFN, Bologna)<br>Beate Heinemann (DESY, Univ. of Freiburg)<br>Karl Jakobs (Univ. of Freiburg)<br>Jin Shan<br>Victor Kim (PNPI, Gatchina)<br>Leif Lonnblad (Lund Univ.)<br>Martha Losada (Univ. Antonio Narino, Colombia)<br>Alejandro Nisati (INFN, Roma-1)<br>Giovanni Passaleva (INFN, Firenze)<br>Monica Pepe Altarelli (CERN)<br>Laura Reina (Florida State Univ.)<br>Paris Sphicas (CERN, Athens)<br>Katsuo Tokushuku (KEK, Tsukuba)<br>Bolek Wyslouch (MIT, USA)<br>Haijun Yang (SJTU, Shangai)<br>Arnulfo Zepeda (CINVESTAV, Mexico)<br><br><br>&nbsp;<br></p> \n            </div>\n        \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount <= 3,\n                             'mbr-col-lg-3': cardsAmount > 3}\" mbr-if=\"cardsAmount > 2\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>\n                    CONFERENCE CHAIRS</b></h3>\n                <p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">A. Nisati (INFN)\n<br>J. Olsen (PRINCETON UNIV.)\n<br>A. Fernández Téllez (BUAP)<br>\nI. Bautista (BUAP)\n<br>B. Mansoulie INTERNATIONAL COCHAIR\n<br>G. Mitselmakher IAC DEPUTY CHAIR&nbsp;<br></p>\n            </div>\n        \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount <= 3,\n                             'mbr-col-lg-3': cardsAmount > 3}\" mbr-if=\"cardsAmount > 3\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                    Resultados\n                </h3>\n                <p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus aperiam\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qTtgf4gz3Q",
+          "_anchor": "content15-11",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "title": "TRAVEL &amp; CULTURE",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            "amp-sidebar": {
+              "min-width": "260px!important",
+              "z-index": "1050!important",
+              "background-color": "@menuBgColor"
+            },
+            "amp-sidebar.open:after": {
+              "content": "''",
+              "position": "absolute",
+              "top": "0",
+              "left": "0",
+              "bottom": "0",
+              "right": "0",
+              "background-color": "red"
+            },
+            ".open": {
+              "transform": "translateX(0%) !important",
+              "display": "block!important"
+            },
+            ".builder-sidebar": {
+              "background-color": "@menuBgColor",
+              "position": "relative",
+              "height": "100vh",
+              "z-index": "1030",
+              "padding": "1rem 2rem",
+              "max-width": "20rem"
+            },
+            ".headerbar": {
+              "display": "flex",
+              "flex-direction": "column",
+              "justify-content": "center",
+              "padding": ".5rem 1rem",
+              "min-height": "70px",
+              "align-items": "center",
+              "background": "@menuBgColor",
+              "&.sticky-nav": {
+                "position": "fixed",
+                "z-index": "1000",
+                "width": "100%"
+              }
+            },
+            "button.sticky-but": {
+              "position": "fixed"
+            },
+            ".brand": {
+              "display": "flex",
+              "align-items": "center",
+              "align-self": "flex-start",
+              "padding-right": "30px",
+              "p": {
+                "margin": "0",
+                "padding": "0"
+              }
+            },
+            ".brand-name": {
+              "color": "#197bc6"
+            },
+            ".sidebar": {
+              "padding": "1rem 0",
+              "margin": "0"
+            },
+            ".sidebar > li": {
+              "list-style": "none",
+              "display": "flex",
+              "flex-direction": "column"
+            },
+            ".sidebar a": {
+              "display": "block",
+              "text-decoration": "none",
+              "margin-bottom": "10px"
+            },
+            ".close-sidebar": {
+              "width": "30px",
+              "height": "30px",
+              "position": "relative",
+              "cursor": "pointer",
+              "background-color": "transparent",
+              "border": "none",
+              "&:focus": {
+                "outline": "2px auto @primaryColor"
+              },
+              "span": {
+                "position": "absolute",
+                "left": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "transform": "rotate(45deg)"
+                },
+                "&:nth-child(2)": {
+                  "transform": "rotate(-45deg)"
+                }
+              }
+            },
+            "@media (min-width: 992px)": {
+              "& .brand-name": {
+                "min-width": "8rem"
+              },
+              "& .builder-sidebar": {
+                "margin-left": "auto",
+                ".sidebar li": {
+                  "flex-direction": "row",
+                  "flex-wrap": "wrap",
+                  "a": {
+                    "padding": ".5rem",
+                    "margin": "0"
+                  }
+                }
+              },
+              "& .builder-overlay": {
+                "display": "none !important"
+              }
+            },
+            ".hamburger": {
+              "position": "absolute",
+              "top": "25px",
+              "& when (@showLogo)": {
+                "@media (min-width: 768px)": {
+                  "top": "calc(0.5rem ~\"+\" @logoHeight ~\"*\" 0.5px ~\"-\" 10px)"
+                }
+              },
+              "right": "20px",
+              "margin-left": "auto",
+              "width": "30px",
+              "height": "20px",
+              "background": "none",
+              "border": "none",
+              "cursor": "pointer",
+              "z-index": "1000",
+              "&:focus": {
+                "outline": "none"
+              },
+              "span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all .2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all .2s"
+                }
+              }
+            },
+            "amp-img": {
+              "height": "~\"@{logoHeight}px\"",
+              "width": "~\"@{logoWidth}px\"",
+              "margin-right": "1rem",
+              "display": "flex",
+              "align-items": "center",
+              "@media (max-width: 768px)": {
+                "max-height": "55px",
+                "max-width": "55px"
+              }
+            },
+            ".brand-name B": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "menu1",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"amp-main,amp-sidebar\" global=\"\" once=\"menu\" always-top=\"\" position-absolute=\"\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Mostrar Logo\" name=\"showLogo\" checked=\"\">\n        <input type=\"range\" title=\"Altura Logo\" inline=\"\" name=\"logoHeight\" min=\"55\" max=\"120\" value=\"113\" step=\"1\">\n        <input type=\"range\" title=\"Ancho Logo\" inline=\"\" name=\"logoWidth\" min=\"55\" max=\"120\" value=\"76\" step=\"1\">\n\n        <input type=\"checkbox\" title=\"Mostrar Marca\" name=\"showBrand\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Enlaces\" name=\"showLinks\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Botón(es)\" name=\"showButtons\" checked=\"\">\n        <input type=\"checkbox\" title=\"Fijar Menú\" name=\"sticky\" checked=\"\">\n        <select title=\"Lado de la barra lateral\" name=\"sidebarSide\">\n            <option value=\"left\">Izquierda</option>\n            <option value=\"right\" selected=\"\">Derecha</option>\n        </select>\n        <input type=\"color\" title=\"Color de Fondo\" name=\"menuBgColor\" value=\"#232323\">\n        <input type=\"color\" title=\"Color Menú &quot;Hamburguesa&quot;\" name=\"hamburgerColor\" value=\"#197bc6\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <nav class=\"headerbar\" mbr-class=\"{'sticky-nav':sticky}\">\n      <div class=\"brand\">\n          <span mbr-if=\"showLogo\" class=\"brand-logo\">\n              <amp-img src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" layout=\"responsive\" width=\"76.69014084507042\" height=\"99\" alt=\"Mobirise\">\n                  <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/logo-lhcp2019-110x142.png\" alt=\"Mobirise\" title=\"\">\n              </amp-img>\n          </span>\n          <p mbr-text=\"\" mbr-theme-style=\"display-2\" mbr-if=\"showBrand\" class=\"brand-name mbr-fonts-style\" data-app-selector=\".brand-name\"><b><i>&nbsp; &nbsp; <a href=\"index.html\">LHCP 2019 </a><a href=\"index.html\">&nbsp;</a><a href=\"index.html\">&nbsp;</a></i></b></p>\n      </div>\n    </nav>\n    <amp-sidebar id=\"sidebar\" layout=\"nodisplay\" side=\"{{sidebarSide}}\">\n        <div class=\"builder-sidebar\" id=\"builder-sidebar\">\n            <button on=\"tap:sidebar.close\" class=\"close-sidebar\">\n                <span></span>\n                <span></span>\n            </button>\n\n            <div mbr-menu=\"\" class=\"sidebar mbr-white\" mbr-theme-style=\"display-4\" mbr-if=\"showLinks\"><a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">HOME</a> <a class=\"text-white\" href=\"page4.html\" data-app-placeholder=\"Type Text\">REGISTRATION</a> <a class=\"text-white\" href=\"index.html\" data-app-placeholder=\"Type Text\">PROCEEDINGS</a> <a class=\"text-white\" href=\"https://indico.cern.ch/event/687651/\" data-app-placeholder=\"Type Text\">PROGRAMME</a> <a class=\"text-white\" href=\"assets/files/POSTERLHCP19_NEW.pdf\" data-app-placeholder=\"Type Text\">POSTER</a> <a class=\"text-white\" href=\"page1.html\" data-app-placeholder=\"Type Text\">SPONSORS</a> <a class=\"text-white\" href=\"page3.html\" data-app-placeholder=\"Type Text\">PREVIOUS EDITIONS</a>\n              <a class=\"text-white\" href=\"#bottom\" data-app-placeholder=\"Type Text\">SOCIAL MEDIA<br><br></a></div>\n            \n            <div mbr-if=\"showButtons\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn align-center\"><a class=\"btn btn-sm btn-warning\" href=\"mailto:lhcp.2019@cern.ch\" data-app-placeholder=\"Type Text\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\">&nbsp;&nbsp;</span>CONTACT &nbsp;&nbsp;</a></div>\n        </div>\n    </amp-sidebar>\n    <button on=\"tap:sidebar.toggle\" class=\"ampstart-btn hamburger\" mbr-class=\"{'sticky-but':sticky}\">\n        <span></span>\n        <span></span>\n        <span></span>\n        <span></span>\n    </button>\n</section>",
           "_cid": "qTij3msXo5",
           "_anchor": "menu1-12",
           "_protectedParams": [],
